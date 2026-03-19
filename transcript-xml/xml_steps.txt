@@ -3,7 +3,7 @@ Find:^Title Card:\s*(.+)$
 Replace: <titlecard>$1</titlecard>
 
 Step 2 Charcter and their lines 
-Find:^([A-Z][A-Za-z .'-]+):\s*(.+)$  
+Find:^([A-Z][A-Za-z .'-]+):\s*(.+)$$  
 Replace:
 <line>
   <speaker>$1</speaker>
