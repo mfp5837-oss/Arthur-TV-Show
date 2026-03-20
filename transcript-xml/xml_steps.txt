@@ -1,11 +1,11 @@
 These are some of the find and replace I used as a guidline for the transcripts, most frequient ones I used, and my idea of how I wanted it to kinda look 
 
 Step 1 Title card 
-Find:^Title Card:\s*(.+)$ 
+Find:^Title Card:\s*(.+)
 Replace: <titlecard>$1</titlecard>
 
 Step 2 Charcter and their lines 
-Find:^([A-Z][A-Za-z .'-]+):\s*(.+)$$  
+Find:^([A-Z][A-Za-z .'-]+):\s*(.+)$
 Replace:
 <line>
   <speaker>$1</speaker>
@@ -40,3 +40,5 @@ Step 7 Context (This may not be present in every script
 Example:The rat (who is revealed to be Mr. Ratburn in a later episode) addresses his class.
 Find:^\s*The rat \(who is revealed to be Mr\. Ratburn in a later episode\) addresses his class\.\s*$
 Replace:<context>The rat (who is revealed to be Mr. Ratburn in a later episode) addresses his class.</context>
+
+Group: Find - ^([A-Za-z+ ]+):\s*(.*) Replace - <group speaker="$1">$2</group>
