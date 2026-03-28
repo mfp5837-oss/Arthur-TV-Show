@@ -1,0 +1,48 @@
+These are some of the find and replace I used as a guidline for the transcripts, most frequient ones I used, and my idea of how I wanted it to kinda look 
+
+Step 1 Title card 
+Find:^Title Card:\s*(.+)
+Replace: <titlecard>$1</titlecard>
+
+Step 2 Charcter and their lines 
+Find:^([A-Z][A-Za-z .'-]+):\s*(.+)$
+Replace:
+<line>
+  <speaker>$1</speaker>
+  <dialogue>$2</dialogue>
+</line>
+
+Step 3 Arthur narration lines (may not be pressent in all scripts)
+Find:^([A-Z][A-Za-z]+)\s*\(narrator\):\s*(.+)$
+Replace:
+<narration>
+  <speaker>$1</speaker>
+  <dialogue>$2</dialogue>
+</narration>
+
+Step 4 Scene setting (may be different for each script)
+Find:^(In|At)\s+([^,]+)(.*)$ or ^([^<>\n]+)$
+Replace: 
+<scene>
+  <location>$2</location> or <location>$1</location>
+  <description>$3</description>
+</scene>
+
+Step 5 Sounds (may be different for each script)
+Find:\((burps|grunts|groans|laughs?|screams?|cheers?)\)
+Replace:<sfx>$1</sfx>
+
+Step 6 Stage direction
+Find:^([A-Z][^.:\n]+?\.)$ or try this ^\[(.+?)\]$
+Replace:<stage>$1</stage>
+
+Step 7 Context (This may not be present in every script
+Example:The rat (who is revealed to be Mr. Ratburn in a later episode) addresses his class.
+Find:^\s*The rat \(who is revealed to be Mr\. Ratburn in a later episode\) addresses his class\.\s*$
+Replace:<context>The rat (who is revealed to be Mr. Ratburn in a later episode) addresses his class.</context>
+
+Group: Find - ^([A-Za-z+ ]+):\s*(.*) Replace - <group speaker="$1">$2</group>
+
+Wrap the whole text file:
+Find: ([\s\S]*)
+Replace: <show>\n$1\n</show>

@@ -1,0 +1,553 @@
+<show>
+<location>Opening</location>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>[at the library] I love the library! There are so many books to read and great things to find out. But the best thing about the library is... [whispers] it's quiet.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur!!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Except on days when I have to bring D.W.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What does this word say? [points at a word on a book]</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>"The." [D.W. walks away] Another great thing about the library is I can check out all these books!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur!!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What is it now?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What does this word say?</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>"Red." [D.W. walks away] To take books out at the library, you need a library card. But it's easy to get one of those. All you have to do is...</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>ARTHUR!!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What?!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>How about this word?</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>"Dog"! "The Red Dog," okay? Got it?! And stop being so noisy! See the sign? It says, "No talking."</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>If I can't read "The Red Dog," how do you expect me to read that sign?</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Well... just go pester someone else—I'm busy. [D.W. does so] Where was I? Oh, yeah—all you need to do to get a library card is...</dialogue>
+</line>
+<line>
+  <speaker>D.W</speaker>
+  <dialogue>Shh! [whispers] The sign says, "No talking"!</dialogue>
+</line>
+
+<location>Title Card</location>
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>[title card] "D.W.'s Library Card."</dialogue>
+</line>
+
+<location>Elwood City Public Library</location>
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>[reading a book called Chopin to D.W.] And he published a "Rondo in C Minor" when he was only 15 years old!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>D.W.! [Binky gasps, closes the book and puts another book on top of it] Stop bugging Binky! It's time for your puppet show in the kids' section.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I wasn't bugging him. Binky was reading to me about Chopin: the great romantic composer.</dialogue>
+</line>
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>No, I wasn't. Uh, his name was Choppin' [shows Arthur the cover of the book Kicking Koalas with a man on it] and he was a karate master. [to D.W.] You weren't listening!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Sorry if my sister was bothering you. [grabs D.W.'s arm]</dialogue>
+</line>
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>It's okay. Little kids should hear about important stuff—like karate. [Arthur walks away with D.W. Binky opens the book he was reading to D.W. and continues reading it. D.W. spots a book]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Ooh! [takes the book off the shelf] Arthur, look! A book on frogs!! Take it out for me? [shows it to Arthur]</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hopalong the Frog? Forget it! [hands the book back to D.W.]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>But it's about frogs. Please, please, please, please, please?</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I can't take out baby books on my library card. It could go on my permanent record.</dialogue>
+</line>
+<location>(dreams about him checking out Hopalong the Frog. Paige scans it and an alarm goes off)</location>
+<line>
+  <speaker>Speaker</speaker>
+  <dialogue>WARNING! READER IS A BABY! ADULT BOOKS ARE OFF LIMITS!</dialogue>
+</line>
+<location>(red lights are flashing. Metal blocks drop onto the bookshelves)</location>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Sorry, Arthur, the last book you took out was Hopalong the Frog! From now on, you can only take out baby books!</dialogue>
+</line>
+<location>(While the words "Baby books" echo, she presses a red button on the desk and arms come out of the front of the desk to dress up Arthur as a baby, complete with a pacifier in his mouth, a bonnet on his head, a bottle in his hand, and a diaper over his jeans.)</location>
+<line>
+  <speaker>Kids</speaker>
+  <dialogue>[off-camera] Arthur's a baby! Arthur's a baby!</dialogue>
+</line>
+<location>(Two robotic arms come out from the front of the desk to take a picture of Arthur while Francine and Muffy are teasing him. He stops dreaming and puts the book back on the shelf)</location>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Sorry, D.W., there's just... too much at stake.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Yeah? Well, someday I'm gonna get my own library card [Arthur looks shocked] then I'll take out whatever I want. [walks away]</dialogue>
+</line>
+<location>(Scene cuts to Mr. Ratburn finishing a puppet show. All of the kids cheer. Mr. Ratburn walks from behind the stage)</location>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Thank you. [Mr. Ratburn bows] Are there any questions?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[raises her hand] When will we be old enough to get our own library cards?</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>You are old enough, D.W.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I am?! I'll take one... No, make that two! I want more cards than Arthur!! [the rest of the kids shout "I want one!"]</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Settle down, children. You can all have one. You just have to be able to write your full name. [D.W.'s jaw drops]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I knew there was a catch!</dialogue>
+</line>
+<line>
+  <speaker>Timmy Tibble</speaker>
+  <dialogue>We can write our names!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>But my full name is Dora Winifred Read. I hardly ever say it. How can I write it?!</dialogue>
+</line>
+<line>
+  <speaker>Tommy Tibble</speaker>
+  <dialogue>You have it easy! Be glad you're not Aloysius Zimmerplotz. [points to Aloysius Zimmerplotz trying to write his full name on a piece of paper]</dialogue>
+</line>
+<line>
+  <speaker>Aloysius Zimmerplotz</speaker>
+  <dialogue>Oh, no! I ran out of room again. [crumples up the piece of paper. Scene cuts to D.W. and Arthur walking home from the library]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>And when I have my own library card, I'm gonna get Hopalong the Frog and you can't do anything about it!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>But you can't read!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Ms. Turner didn't say that you have to read to take out books—you just have to write your full name.</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You can't do that either!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I know. But I'm gonna learn. You'll see.</dialogue>
+</line>
+
+
+
+<location>Reads' House</location>
+<description>(scene cuts to D.W. sharpening her pencil and carrying a stack of paper to the kitchen table. She puts the stack of paper on the table] Uh! [cracks her knuckles. She grabs her pencil and writes the letter "D" backwards. She crumples the piece of paper. She grabs a new one. She writes "Dora" but the "R" is capitalized and written backwards. She crumples the piece of paper and grabs a new one. She writes the letter "D" backwards again but the pencil snaps. She growls in frustration. The clock turns from 4:00 to 7:00. Three hours have passed. 22 crumpled pieces of papers are scattered across the floor. Arthur walks in and looks at D.W.'s new paper)</description>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>"Doba Minifred Reabed"? [the two "B"s are capitalized and written backwards, and the "W" is upside down] Who's that?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I can't do it! [puts her head on the table. Scene cuts to the Read family eating lunch. D.W. is picking at her mashed potatoes with a fork] There are too many letters in my name. Why didn't you name me something simple, like A?</dialogue>
+</line>
+<line>
+  <speaker>Jane</speaker>
+  <dialogue>You seem to have "Dora Winifred" down. [the words "Dora Winifred" are written on D.W.'s mashed potatoes]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Quick, Dad! More mashed potatoes! [David puts more mashed potatoes on D.W.'s plate. She writes "Read"] I wrote my name. I wrote my name! Look out, world, D.W. Read WRITES!!</dialogue>
+</line>
+
+<location>Elwood City Public Library 2</location>
+<location>(Scene cuts to preschoolers queuing in the library to get their library cards. D.W. sits at a table writing her full name over and over again on a piece of paper]</location>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>"Dora Winifred... Read." "Dora Winifred Read." [the words "Dora Winifred Read" are written twice on the piece of paper. The Tibbles walk by with their library cards]</dialogue>
+</line>
+<line>
+  <speaker>Tommy Tibble</speaker>
+  <dialogue>I bet D.W. messes up her name and doesn't get her library card!</dialogue>
+</line>
+<line>
+  <speaker>Timmy Tibble</speaker>
+  <dialogue>Yeah, she can't even spell "D"!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I can, too! I've already spelled it 100 times!</dialogue>
+</line>
+<line>
+  <speaker>Jane</speaker>
+  <dialogue>It's time to get in line. [D.W. gets in line.]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What if the Tibbles are right? What if I forget my own name? What is my name? I forgot it! I forgot my name!!</dialogue>
+</line>
+<line>
+  <speaker>Jane</speaker>
+  <dialogue>Good luck, D.W.!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Oh, yeah—D.W. But what does that stand for? I can't remember! [it is her turn now. Paige Turner hands her a pencil. She tries writing her full name. She hands Paige Turner the card. She reads it]</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Very nice. "Dora Winifred Read." Here's your card! [hands D.W. her library card. She smiles]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Look, Arthur, [runs over to Arthur] you didn't think I could do it, but I did it! And now I can take out any book I want! [gets an evil look on her face] Now I know what true power feels like! [scene cuts to Arthur and D.W. walking. D.W. runs to the shelf where Hopalong the Frog is but it's not there] Hey, [picks up two books] where's Hopalong the Frog? It was here just a couple of days ago!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's probably back on the shelves. Ask for it at the front desk. [there is a sign that says "The front desk" with an arrow pointing to the front desk. Scene cuts to D.W. at the front desk. She has crossed arms while tapping her left foot. Paige Turner checks for Hopalong the Frog on her computer]</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Sorry, that book was just checked out. It should be back a week from today.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>A whole week?! I can't wait that long!</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>It could come back before then, but Saturday is when it's due.</dialogue>
+</line>
+<line>
+  <speaker>Jane</speaker>
+  <dialogue>Come on, D.W.! [she and Arthur walk to the exit]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Okay... [walks to the exit too. She runs back] Is it back yet?</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Nope.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[walks to the exit again. She runs back again] How about now?</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Uh-uh. [D.W. walks to the exit again. Scene cuts to Paige Turner running to answer the phone. She answers it] Nope, it's not in yet. [hangs up. Scene cuts to her taking a bite out of a sandwich. Her computer beeps]</dialogue>
+</line>
+<line>
+  <speaker>Computer</speaker>
+  <dialogue>You've got mail! [The computer says, "You've got mail." Paige Turner types something and sends it to the computer in the Read house.]</dialogue>
+</line>
+
+
+
+<location>Reads' House 2</location>
+<description>[The computer says, "New message"]</description>
+<line>
+  <speaker>Jane</speaker>
+  <dialogue>Not yet D.W. [D.W. growls angrily. Scene cuts to D.W. in her pajamas at the window waiting for Paige Turner. She walks up to the Read house]</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>[shouts] Not yet, D.W.! [walks away. D.W. frowns. Scene cuts to D.W. in Arthur's room]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What if Saturday never comes? [climbs on his bed] What if we go right from Friday to Sunday? Are there leap weeks like leap years, Arthur?</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Relax, it's only 12 hours away. Now let me sleep. [scene cuts to the morning]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Wake up, Arthur! [tries to wake Arthur up by shaking him] Tomorrow is today and today is yesterday!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>[wakes up] Huh?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>It's SATURDAY!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>[stammers] But it's... [checks his alarm clock] 6:30! The library isn't even open yet!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I know. [grabs something] But we have to be the first ones there. [gives Arthur his breakfast] Here's your cereal. [Arthur gets a bored look on his face.]</dialogue>
+</line>
+
+<location>Elwood City Public Library 3</location>
+<description>[Scene cuts to Paige Turner searching up the book on the computer. She shakes her head]</description>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>But it has to be here! You said Hopalong the Frog was due today!</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>But it might be late.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Late?! Call the police!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Why don't you just take out some other baby book?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I want HOPALONG THE FROG! And it's NOT a baby book!!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Well, I'm not gonna spend my whole Saturday here!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Fine! Go home! I'll just tell Mommy that you left me here ALL ALONE! [Arthur stops dead in his tracks. He growls angrily. Scene cuts to him sitting on a couch snoring with a book on his lap and D.W. spying behind a bookshelf. She spots Aloysius Zimmerplotz returning a book. She gasps. She wakes Arthur up]</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Huh?!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur, look! Somebody's returning a big book! [runs over to Aloysius Zimmerplotz] This might be it! [She holds up her library card like a police ID] The name's Dora Winifred Read. Is that a book on frogs?</dialogue>
+</line>
+<line>
+  <speaker>Aloysius Zimmerplotz</speaker>
+  <dialogue>Uh, no. [holds up the book he's returning] It's Chippy the Choo-Choo.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Oh... [starts walking back to Arthur] it'll never come.</dialogue>
+</line>
+<line>
+  <speaker>Tommy and Timmy Tibble</speaker>
+  <dialogue>Hi, D.W.!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[gasps when she sees that Tommy Tibble is carrying the book] YOU had the book! I should've known! Aah!! You hurt it! It's all wrinkly!</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>[Tommy Tibble gives the book to her] It was like that when they took it out. It's an old book.</dialogue>
+</line>
+<line>
+  <speaker>Timmy Tibble</speaker>
+  <dialogue>We would never hurt a library book.</dialogue>
+</line>
+<line>
+  <speaker>Tommy Tibble</speaker>
+  <dialogue>If you do, they'll take away your library card forever!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[gives Paige Turner her library card] Really? [Paige Turner puts a yellow piece of paper in a slot in the book and scans it. She gives it to D.W.]</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>Here you go! Take good care of it! [D.W. looks shocked]</dialogue>
+</line>
+<line>
+  <speaker>Timmy Tibble</speaker>
+  <dialogue>[whispers to Tommy Tibble] Or else! [both Tommy and Timmy Tibble start laughing. D.W. starts dreaming]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[rubbing her hands together wearing a red jacket] I've been waiting so long for this moment! [opens the book but the cover comes off. She gasps. She puts the cover back on but screams as the book crumbles up and turns into a tornado] What have I done?!</dialogue>
+</line>
+<line>
+  <speaker>Paige Turner</speaker>
+  <dialogue>[the tornado takes D.W. to the library] You can never have another library card again! [stamps a big red "X" on D.W.'s library card. There are stalactites hanging from the ceiling]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[is standing at the desk the height of a judge's podium. The floor is made of wood, not carpeting] But I worked so hard for that card!</dialogue>
+</line>
+<line>
+  <speaker>Tommy and Timmy Tibble</speaker>
+  <dialogue>[walk along with a stack of books in their hands] More books for us! More books for us!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>[laughs evilly] I told you'd never have a library card! I TOLD you! [continues to laugh evilly]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>It's not fair! [falls to her knees and sobs] It's not fair! [stops dreaming]</dialogue>
+</line>
+
+
+
+<location>Reads' House 3</location>
+<description>[She is in her room wearing the same red jacket]</description>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>[walks in her room] I know you're just gonna bug me all night to read you that book, so let's get it over with now.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>NO! [Arthur is about to take the book but D.W. moves it away from him] I mean... you've done enough for me already, Arthur. [puts it down on her bed] Maybe later.</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Huh?</dialogue>
+</line>
+
+<description>[The dates "Sat. 12" to "Sun. 13" to "Mon. 14" to "Tue. 15" to "Wed. 16" to "Thu. 17" to "Fri. 18" to "Sat. 19" are superimposed on the Read house.] [Scene cuts to D.W. and Kate having breakfast] Mm-hmm, I knew it! [walks into the kitchen]</description>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You forgot what today is!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>No, I didn't. It's Saturday!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You're supposed to return your library book today!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[drops her spoon] It's today?! I thought it would never come! [runs out of the kitchen and in her room. She gets a box and puts it on her bed. She takes the cover off and an object is wrapped up in her blankie. She takes it out and unwraps it. The object is Hopalong the Frog. She runs to kitchen and gets oven mitts. She picks up the book. Arthur walks in]</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Why are you wearing oven mitts?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>To keep the book safe!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's a book, D.W.-- it's not going to explode! How was it anyway?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I don't know! I never opened it. I was afraid I'd lose my library card.</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Why would you lose your library card?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Because the Tibbles said if you hurt a book, they take away your library card forever! And look at it, Arthur. [holds up the book] It's an old book. It could fall apart any minute!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I'll open it, if you're so worried. [walks over to the book and takes it. He opens it] Hey! I took this book out! See, that's my name. [shows D.W. the slot inside the book that says "H 201.1." The yellow piece of paper has the same thing written on it. It has the names Diana Smith, Arthur Read, and Mona Dorey listed on it] You used to have to write your name here whenever you took a book out. This is the very first book I ever took out of the library! [imagines about him taking out the book when he is little]</dialogue>
+</line>
+<line>
+  <speaker>Little Arthur</speaker>
+  <dialogue>[without glasses] My first book! My first book! [he disappears]</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>You took out a baby book?!</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It isn't a baby book! I love this book! It's great for little kids. Here, listen to this: [sits on D.W.'s bed and D.W. crawls behind him] "Hopalong the Frog hopped onto a log. And the log started floating away... [Arthur finishes the book] The end." [D.W. starts crying] What's wrong, D.W.? It was a happy story. Didn't you like it?</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[crying] I loved it. I'm just sad I have to return it now! [blows her nose into her right oven mitt]</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah, but you can take it right out again. [gives the book to D.W.] It's called renewing a book.</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>[gasps] I can?!</dialogue>
+</line>
+
+
+
+<location>Elwood City Public Library 4</location>
+<description>(Scene cuts to D.W. renewing the book at the library. She gives the book to Paige Turner)</description>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur's gonna read it to me every single day! Twice a day! [Paige Turner scans it] Once in the morning and once at night! And then I'm gonna renew it [Paige Turner gives the book to her] again and again and again and again and again... [Arthur smacks his forehead]</dialogue>
+</line>
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What have I done?!</dialogue>
+</line>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>...and again and again and again! [the episode ends]</dialogue>
+</line>
+</show>
