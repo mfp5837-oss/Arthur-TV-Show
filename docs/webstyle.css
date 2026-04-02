@@ -79,5 +79,6 @@ display:block;
 
 .member{
 display:flex;
-align-items:center;
-}
+align-items:center;}
+
+.footer {text-align:center; color:white}
