@@ -74,6 +74,7 @@ div.threeD iframe {
   overflow: hidden;
   padding: 15px;
   text-align: center;
+   border-radius: 50px; /* THIS makes it pill-shaped */
 }
 
 /* Navbar links */
@@ -109,9 +110,9 @@ div.threeD iframe {
 }
 
 .profile {
-  width: 70px;
+  width: 80px;
   height: 70px;
-  border-radius: 50%;
+  border-radius: 25%;
   overflow: hidden;
   margin-right: 15px;
 }
