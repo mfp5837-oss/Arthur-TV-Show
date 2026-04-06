@@ -1,84 +1,137 @@
-body { /*background:papayaWhip*/background :#feb94e;
-:font-family:{ Arial, Bold, Helvetica, sans-serif;}
-  
+body {
+  /* background: papayaWhip; */
+  background: #feb94e;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 div.side-by-side {
-  display: flex; width: 80%; float:right}
-
-img {width: 30%; max-width: 500px;}
-
-.featureBlock {background-color:orange; font-size: smaller;}
-
-.image {float:right; width:40%; max-width:300px;border:dotted; border-color:white}
-
-.button {color:white; font-family:Bold, 'times new roman', times, serif;}
-
-.box {border-style:dashed; border-color:black; margin:5%}
-
-div.threeD{}
-div.threeD iframe{width:90%; max-width:1280px; max-height:840px;}
-
-.text{float:bottom}
-
-.footer{width: 90%}
-
-.imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 75%; margin: 15px auto; padding: 1%; border-radius: 12px;}
- 
-
-    /* Navbar container */
-    .navbar {
-      background-color: #111;
-      overflow: hidden;
-      padding: 15px;
-      text-align: center;
-    }
-
-    /* Navbar links */
-    .navbar a {
-      color: red;
-      text-decoration: none;
-      padding: 14px 20px;
-      display: inline-block;
-    }
-
-    /* Hover effect */
-    .navbar a:hover {
-      background-color: #575757;
-    }
-
-    /* Main content */
-    .content {
-      padding: 20px;
-      text-align: center;
-    }
-.imgzoom img:hover {transform: scale(1.4);}
-
-.team-box{
-display:flex;
-align-items:center;
-gap:200px;
-border:2px solid black;
-border-radius:25px;
-padding:20px;
+  display: flex;
+  width: 80%;
+  float: right;
 }
 
-.profile{
-width:70px;
-height:70px;
-border-radius:50%;
-overflow:hidden;
-margin-right:15px;
+img {
+  width: 30%;
+  max-width: 500px;
 }
 
-.profile img{
-width:100%;
-height:100%;
-object-fit:cover;
-display:block;
+.featureBlock {
+  background-color: orange;
+  font-size: smaller;
 }
 
-.member{
-display:flex;
-align-items:center;}
+.image {
+  float: right;
+  width: 40%;
+  max-width: 300px;
+  border: dotted white;
+}
 
-.footer {text-align:center; color:white}
+.button {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.box {
+  border-style: dashed;
+  border-color: black;
+  margin: 5%;
+}
+
+div.threeD {
+}
+
+div.threeD iframe {
+  width: 90%;
+  max-width: 1280px;
+  max-height: 840px;
+}
+
+.text {
+  vertical-align: bottom;
+}
+
+.footer {
+  width: 90%;
+  text-align: center;
+  color: white;
+}
+
+.imgzoom {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  width: 75%;
+  margin: 15px auto;
+  padding: 1%;
+  border-radius: 12px;
+}
+
+/* Navbar container */
+.navbar {
+  background-color: #111;
+  overflow: hidden;
+  padding: 15px;
+  text-align: center;
+}
+
+/* Navbar links */
+.navbar a {
+  color: red;
+  text-decoration: none;
+  padding: 14px 20px;
+  display: inline-block;
+}
+
+/* Hover effect */
+.navbar a:hover {
+  background-color: #575757;
+}
+
+/* Main content */
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+.imgzoom img:hover {
+  transform: scale(1.4);
+}
+
+.team-box {
+  display: flex;
+  align-items: center;
+  gap: 200px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.profile {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 15px;
+}
+
+.profile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.member {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+p {
+  font-family: 'Cabin Sketch', cursive;
+}
