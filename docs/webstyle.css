@@ -1,6 +1,6 @@
 body {
   /* background: papayaWhip; */
-  background: #feb94e;
+  background:#feb94e;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,7 +12,7 @@ div.side-by-side {
 
 img {
   width: 30%;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .featureBlock {
@@ -70,10 +70,17 @@ div.threeD iframe {
 
 /* Navbar container */
 .navbar {
-  background-color: #111;
+  background: linear-gradient(to bottom, #222, #000);
   overflow: hidden;
   padding: 15px;
   text-align: center;
+  border-radius: 50px;
+
+  /* 3D effect */
+  box-shadow: 
+    0 6px 15px rgba(0, 0, 0, 0.5),
+    inset 0 2px 4px rgba(255, 255, 255, 0.1),
+    inset 0 -3px 6px rgba(0, 0, 0, 0.6);
 }
 
 /* Navbar links */
@@ -82,8 +89,31 @@ div.threeD iframe {
   text-decoration: none;
   padding: 14px 20px;
   display: inline-block;
+  border-radius: 30px;
+
+  /* button look */
+  background: linear-gradient(to bottom, #333, #111);
+  box-shadow: 
+    0 4px 8px rgba(0, 0, 0, 0.5),
+    inset 0 1px 2px rgba(255, 255, 255, 0.15);
+
+  transition: all 0.2s ease;
 }
 
+/* Hover effect */
+.navbar a:hover {
+  background: linear-gradient(to bottom, #575757, #2a2a2a);
+  transform: translateY(-2px);
+  box-shadow: 
+    0 6px 12px rgba(0, 0, 0, 0.6);
+}
+
+/* Click (pressed effect) */
+.navbar a:active {
+  transform: translateY(2px);
+  box-shadow: 
+    inset 0 3px 6px rgba(0, 0, 0, 0.7);
+}
 /* Hover effect */
 .navbar a:hover {
   background-color: #575757;
@@ -109,9 +139,9 @@ div.threeD iframe {
 }
 
 .profile {
-  width: 70px;
+  width: 80px;
   height: 70px;
-  border-radius: 50%;
+  border-radius: 25%;
   overflow: hidden;
   margin-right: 15px;
 }
@@ -135,3 +165,35 @@ h1 {
 p {
   font-family: 'Cabin Sketch', cursive;
 }
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  color: #ffd54f;
+
+  text-shadow:
+    1px 1px 0 black,
+    2px 2px 0 #c49015,
+    3px 3px 0 #b57f10,
+    4px 4px 0 #96690d,
+    5px 5px 10px rgba(0, 0, 0, 0.4);
+      color: black;
+
+  animation: float 2s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+  
+}
+
