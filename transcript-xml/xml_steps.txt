@@ -21,10 +21,17 @@ Replace:
 </narration>
 
 Step 4 Scene setting (may be different for each script)
+
 Find:^(In|At)\s+([^,]+)(.*)$ or ^([^<>\n]+)$
 Replace: 
 <scene>
   <location>$2</location> or <location>$1</location>
+
+Find:^(In|At)\s+([^,]+)(.*)$
+Replace: 
+<scene>
+  <location>$2</location>
+
   <description>$3</description>
 </scene>
 
@@ -41,8 +48,11 @@ Example:The rat (who is revealed to be Mr. Ratburn in a later episode) addresses
 Find:^\s*The rat \(who is revealed to be Mr\. Ratburn in a later episode\) addresses his class\.\s*$
 Replace:<context>The rat (who is revealed to be Mr. Ratburn in a later episode) addresses his class.</context>
 
+
 Group: Find - ^([A-Za-z+ ]+):\s*(.*) Replace - <group speaker="$1">$2</group>
 
 Wrap the whole text file:
 Find: ([\s\S]*)
 Replace: <show>\n$1\n</show>
+
+Group: Find - ^([A-Za-z+ ]+):\s*(.*) Replace - <group speaker="$1">$2</group>

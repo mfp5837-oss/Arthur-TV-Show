@@ -1,0 +1,877 @@
+<xml>
+<stage>Binky Barnes</stage>
+Introduction
+The third-graders work with clay in art class. Brain is making a model of a molecule, Muffy a dollar sign, Francine a bust of herself, Binky a fist, Fern a dolphin and Arthur a statue of Pal.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Art class is fun. But the best part of any class is a field trip.</dialogue>
+</line>
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>Class, next week we'll be going to the Elwood City Art Museum.</dialogue>
+</line>
+
+<line>
+  <speaker>Class</speaker>
+  <dialogue>(Yeah! Woohoo!)</dialogue>
+</line>
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Hooray! Yeah! Francine claps and clay from her hands flies in Muffy’s face. Eww!</dialogue>
+</line>
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>You'll all break into teams and chooses a work of art to report on. Arthur and Buster, you'll be on a team... They high-five. ...with Binky Barnes.</dialogue>
+</line>
+
+<stage>They look horrified.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Binky?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We're doomed. You know what'll happen.</dialogue>
+</line>
+
+<scene>
+  <location>his fantasy</location>
+  <description>, Binky sits in the Reads’ kitchen and eats himself through the contents of the refrigerator. Meanwhile, Buster is working on the floor while Arthur brings in a stack of books.</description>
+</scene>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Isn't that report done yet?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We're working on it, Binky.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Work harder! I want an A-plus or better, understand?</dialogue>
+</line>
+
+<stage>The fantasy ends.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Maybe working with Binky won't be so bad.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah, maybe he won't care. Maybe he'll just do it the way we want.</dialogue>
+</line>
+
+<stage>Binky comes over and puts his hands on their shoulders.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>I have lots of ideas for this report, pals. Lots of ideas!</dialogue>
+</line>
+
+<stage>Arthur and Buster look uncomfortable.</stage>
+
+<stage>Arthur Swims</stage>
+The class stands in the reception area of the museum. A museum worker hands out catalogues. Then they follow Ms. Bryan through an Egyptian exhibition. Buster stops to look at a mummy.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wow! Huh?</dialogue>
+</line>
+
+Ms. Bryan pulls him away.
+
+***
+
+<scene>
+  <location>another room</location>
+  <description>, Maria, Jenna and a boy look at a painted spiral.</description>
+</scene>
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>Come along!</dialogue>
+</line>
+
+When they look away, all three have spirals in their eyes. They rub them.
+
+***
+
+<stage>Arthur and Binky look at “Watson and the Shark” by Singleton.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Wish I had a shark.</dialogue>
+</line>
+
+***
+
+<stage>Francine, Muffy and Binky walk up to a selection of “The Garden of Earthly Delights” by Bosch.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Let's do our report about that one.</dialogue>
+</line>
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Cool!</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Affirmative.</dialogue>
+</line>
+
+***
+
+<stage>Arthur and Buster meet in front of “Whistler’s Mother”.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>See anything you like?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Not yet.</dialogue>
+</line>
+
+***
+
+<scene>
+  <location>the museum’s courtyard</location>
+  <description>, Arthur and Buster find Rodin’s "Thinker" and an archer statue.</description>
+</scene>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wow, that's cool!</dialogue>
+</line>
+
+<stage>Binky runs up to them.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Hey!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Ah!</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>I found the thing for our report. Come on, I'll show you!</dialogue>
+</line>
+
+<stage>He pulls them away.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Urgh!</dialogue>
+</line>
+
+***
+
+<stage>Binky shows Arthur and Buster an abstract painting in the style of Piet Mondrian.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Isn't that something?!</dialogue>
+</line>
+
+<stage>Pause.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah, it's... something. It's gotta be something.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>It's got great color, grabs your eye and, best of all...</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Don't you wanna look for something interesting?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>This is interesting! Think of the report we can do!</dialogue>
+</line>
+
+Thought bubbles appear over Arthur and Buster’s heads. A single tumbleweed rolls through them.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I give up.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>What?? Don't you see? It's hanging sideways.</dialogue>
+</line>
+
+<stage>Arthur and Buster turn their heads sideways.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>What makes you think that?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Look! It makes no sense this way.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>They don't hang paintings in a museum sideways. They're experts.</dialogue>
+</line>
+
+***
+
+The kids ride the bus home. Arthur finds the Mondrian painting in the catalogue.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's not sideways, Binky. Look, it's the same in this book.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>That's wrong, too!</dialogue>
+</line>
+
+<stage>Arthur and Buster exchange worried looks.</stage>
+
+***
+
+<stage>Arthur and Buster sit in the treehouse.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>What did we do to get stuck with Binky?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>If we do the report he wants, everyone will laugh at us.</dialogue>
+</line>
+
+<scene>
+  <location>his fantasy</location>
+  <description>, they present a copy of the painting in art class.</description>
+</scene>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>And as everyone can plainly see, the painting is sideways.</dialogue>
+</line>
+
+Class+Ms. Bryan: (laugh)
+
+Ms. Bryan rolls on the floor.
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Sideways?? That's not sideways!</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Oh, oh yeah, it's sideways - and I guess we should wear shoes on our hands, too!</dialogue>
+</line>
+
+<stage>He does.</stage>
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>(giggles) Arthur, Buster, Binky...you fail!</dialogue>
+</line>
+
+Class+Ms. Bryan: (laugh)
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We shouldn't have to report on his dopey painting. There's two of us and one of him. We outvote him.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Yeah! But h-how do we tell him?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I'll be Binky and you be us. We'll practice just like it'll happen.</dialogue>
+</line>
+
+<stage>Arthur stands on a box, takes off his glasses and looks menacingly.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Um... We don't wanna do that report, Binky. He puts on Arthur’s glasses. Right. Neither of us.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Well, we're gonna do it my way! Understand?!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Okay. He takes off the glasses. Yeah, okay. Anything you say, Binky.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Why are you giving up so easily?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Well, you said: do it exactly like it'll happen.</dialogue>
+</line>
+
+***
+
+<stage>Arthur, Buster and Francine sit on Westboro Apartments’ front steps.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Just tell Binky how you feel. What are you afraid of? He's just really big and very strong and kind of... mean. She realizes the problem. Maybe you should make like a cowskin and hide.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Huh?</dialogue>
+</line>
+
+***
+
+<stage>Arthur and Buster walk down a street.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>How mad do you think Binky will be when we tell him we won't do his report?</dialogue>
+</line>
+
+<stage>They have a fantasy of being flung into space.</stage>
+
+<group speaker="Arthur+Buster">Aaaargh!</group>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I didn't think he could throw us this far.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Satellite!</dialogue>
+</line>
+
+<stage>They narrowly avoid a satellite.</stage>
+
+<group speaker="Arthur+Buster">Ahh!</group>
+
+<stage>The fantasy ends.</stage>
+
+***
+
+<stage>Arthur and Buster talk to Brain who is flying a model airplane in his yard.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>First, he can never throw you hard enough to reach escape velocity.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>That's a load of my mind.</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Why don't you just compromise with him?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Compromise? Yeah!</dialogue>
+</line>
+
+***
+
+<stage>Arthur and Buster talk to Binky in the library.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>What's "compromise" mean?</dialogue>
+</line>
+
+<stage>Buster nudges Arthur.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>That's where you get to do some of what you want, and we get to do some of what we want.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>You do the report you want, but we'll do something else.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Then we put them together?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Yeah.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>That's right.</dialogue>
+</line>
+
+<group speaker="Arthur+Buster">We do them together.</group>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Okay.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Phew.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Wow, look at this! I found a painting that's completely upside down in this book.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Um... you got the book upside down.</dialogue>
+</line>
+
+<stage>Arthur turns it around.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Oh. Yeah.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hm.</dialogue>
+</line>
+
+<stage>Arthur and Buster walk to the exit.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>He's the laziest kid in class. So how come he starts working hard now?</dialogue>
+</line>
+
+***
+
+<stage>Francine climbs up to the tree house where Arthur and Buster are sitting and reading.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Binky's making you do all the work, huh?</dialogue>
+</line>
+
+<group speaker="Arthur+Buster">(chuckle)</group>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No, we compromised. We haven't even started yet.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Just reading a few joke books first.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>You haven't started?? The report's due tomorrow!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>(chuckles) What do you call a moose with four antlers... (gasps) Tomorrow?!</dialogue>
+</line>
+
+<stage>The three flip through the museum catalogue.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wh-which one will we choose?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What about this? Peruvian pyramid carving.</dialogue>
+</line>
+
+<stage>Arthur and Buster’s heads appear in the picture in the catalogue.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Too complicated.</dialogue>
+</line>
+
+<stage>Arthur and Buster sit in a small row boat in “The Great Wave Off Kanagawa” by Hokusai.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>This looks good.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This is making me seasick! Find something else!</dialogue>
+</line>
+
+<stage>Arthur and Buster pose as the farmer and wife in “American Gothic” by Grant Wood.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Not... very... exciting... is it?</dialogue>
+</line>
+
+<stage>Arthur, Buster and Francine pose in Edvard Munch’s “The Scream”.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>(screams)</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This is giving me a headache.</dialogue>
+</line>
+
+<stage>Arthur and Buster walk through Salvador Dalí’s “The Persistence of Memory”.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What could we say about this?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Arthur, time's running out.</dialogue>
+</line>
+
+<stage>Arthur and Buster are cowboys in “A Map in the Sand” by Frederic Remington.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This is it, partner.</dialogue>
+</line>
+
+The kids climb down from the tree house. Francine leaves.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>You know, even if our report is cool, Binky will still make us look dumb.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Unless he doesn't come to school. Come to my house before school tomorrow.</dialogue>
+</line>
+
+<stage>They leave.</stage>
+
+***
+
+The next morning, Arthur phones Binky. Buster stands beside him.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Binky? It's Arthur. School's closed today.</dialogue>
+</line>
+
+Binky (on phone): Why?
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Why is the school closed?</dialogue>
+</line>
+
+Binky (on phone): Hello? Hello...?
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>(whispers)</dialogue>
+</line>
+
+<stage>Arthur gives the thumbs up.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It burned down.</dialogue>
+</line>
+
+<stage>Binky is in his living room.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Wow! Great! Hey, it did not. I can see the school from here.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>(whispers)</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It only burned on the inside.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Very funny. Francine told me you guys started your report late. Don't worry. My part of the report is gonna be unforgettable!</dialogue>
+</line>
+
+<stage>Arthur hangs up.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>"It only burned on the inside??"</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>(sighs) Sheesh. He's gonna make us look doofy, isn't he?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Mega-doofy - times infinity!</dialogue>
+</line>
+
+***
+
+<stage>Arthur and Buster arrive at school.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Do you have a copy of our report for me?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Copy?? I didn't write anything! I thought you wrote it!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I was thinking about what to tell Binky.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Me, too! We have no report! Where's that museum book?</dialogue>
+</line>
+
+<stage>He takes it out of Buster’s backpack.</stage>
+
+***
+
+Arthur and Buster sit under a tree in the schoolyard. Buster reads from the book and Arthur writes it down.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>“Beginning in 1895, Remington began creating bronze sculptures of cowboys, a form he continued to explore until his death in 1909.”</dialogue>
+</line>
+
+<stage>The school bell rings.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Done!</dialogue>
+</line>
+
+***
+
+Ms. Bryan writes “Art Reports” on the blackboard. Arthur and Buster race to their seats.
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>Our first report will be presented by Arthur, Buster and Binky.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We're ready!</dialogue>
+</line>
+
+<stage>Arthur, Buster and Binky stand in front of the class.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Frederick Remington's paintings have Western themes...</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>to Muffy: Boy, this sounds familiar.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>“He de...pic...ted cowboys... native Americans...”</dialogue>
+</line>
+
+<stage>Francine reads along from the catalogue.</stage>
+
+<group speaker="Arthur+Francine">"…and soldiers in action."</group>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Shh!</dialogue>
+</line>
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>Did you boys copy this from the museum catalogue?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Well, sort of. You know... Yeah.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We're gonna fail.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>No, we won't. Ms. Bryan, that's not our whole report.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, no!</dialogue>
+</line>
+
+Arthur and Binky cover their eyes. Binky puts a copy of the Mondrian painting on an easel.
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>This part of our report took research!</dialogue>
+</line>
+
+<line>
+  <speaker>Flashback</speaker>
+  <dialogue>Binky talks to Ms. Turner, who points him to the copy machine.</dialogue>
+</line>
+
+<stage>Binky (narrator): At the library, I made copies of the painting and got the addresses of museums and art experts.</stage>
+
+<line>
+  <speaker>Flashback</speaker>
+  <dialogue>Binky photocopies the painting and his face.</dialogue>
+</line>
+
+<line>
+  <speaker>Flashback</speaker>
+  <dialogue>Binky sits at a library computer.</dialogue>
+</line>
+
+<stage>Binky (narrator): I contacted some of them on the internet.</stage>
+
+<line>
+  <speaker>Flashback</speaker>
+  <dialogue>Binky receives a video cassette in the mail.</dialogue>
+</line>
+
+<stage>Binky (narrator): Of all the experts, only one had the answer.</stage>
+
+The flashbacks end. Binky puts the cassette in a recorder in the classroom. The video shows a man hanging up the painting in a gallery.
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>That's the artist putting up his painting the right way.</dialogue>
+</line>
+
+<stage>He rightens the copy on the easel.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You mean Binky was right??</dialogue>
+</line>
+
+***
+
+A museum worker turns the original painting 90 degrees while a camera films him. Arthur, Buster and Binky stand beside the painting, the rest of the class watches. The museum worker puts his hands on Arthur and Buster’s shoulders.
+
+<group speaker="Arthur+Buster">Ah!</group>
+
+<line>
+  <speaker>Newswoman</speaker>
+  <dialogue>Everyone watching on TV wants to know the names of the brilliant boys who uncovered this mistake.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You need to talk to Binky Barnes. He did all the work.</dialogue>
+</line>
+
+<line>
+  <speaker>Museum Worker</speaker>
+  <dialogue>Oh, excuse me.</dialogue>
+</line>
+
+<stage>He puts his hand on Binky’s shoulder.</stage>
+
+<line>
+  <speaker>Ms. Bryan</speaker>
+  <dialogue>Boys, I'm proud of you for admitting that. Arthur and Buster look delighted. But I still expect you to do a proper report by tomorrow.</dialogue>
+</line>
+
+<group>"Arthur+ Buster">Aw...</group>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hey! I've got an idea for a great report!</dialogue>
+</line>
+
+***
+
+<stage>Arthur and Buster stand on their heads and look at Rousseau’s “The Sleeping Gypsy”.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>If that one was sideways, something else here is to be upside down.</dialogue>
+</line>
+
+<stage>Behind them, an exit sign becomes unfastened and hangs upside down.</stage>
+</xml>

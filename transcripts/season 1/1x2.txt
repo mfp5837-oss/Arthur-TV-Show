@@ -1,8 +1,4 @@
-in: Transcripts, Season 1 transcripts, Finished Transcripts
-Francine's Bad Hair Day/Transcript
-< Francine's Bad Hair Day
-View source
-Francine's Bad Hair Day title card
+Title Card: Francine's Bad Hair Day
 Introduction
 The rat (who is revealed to be Mr. Ratburn in a later episode) addresses his class.
 
@@ -43,6 +39,7 @@ Arthur (narrator): Or wear a flower if you have allergies.
 Binky: Ah-tchoo!
 
 The picture shows him sneezing and falling backwards, knocking over the backdrop.
+
 
 
 Title Card: Francine Bangs Gong
