@@ -1,10 +1,12 @@
-These are some of the find and replace I used as a guidline for the transcripts, most frequient ones I used, and my idea of how I wanted it to kinda look 
+These are some of the find and replace I used as a guideline for the transcripts, the most frequent ones I used, and my idea of how I wanted it to kinda look 
 
-Step 1 Title card 
-Find:^Title Card:\s*(.+)
+Step 1: Title card 
+Find:^Title Card:^\s*Title Card[:: ]\s*(.+)$
 Replace: <titlecard>$1</titlecard>
 
-Step 2 Charcter and their lines 
+line: \s*(.+)
+
+Step 2 Character and their lines 
 Find:^([A-Z][A-Za-z .'-]+):\s*(.+)$
 Replace:
 <line>
@@ -12,7 +14,7 @@ Replace:
   <dialogue>$2</dialogue>
 </line>
 
-Step 3 Arthur narration lines (may not be pressent in all scripts)
+Step 3 Arthur narration lines (may not be present in all scripts)
 Find:^([A-Z][A-Za-z]+)\s*\(narrator\):\s*(.+)$
 Replace:
 <narration>
@@ -56,3 +58,13 @@ Find: ([\s\S]*)
 Replace: <show>\n$1\n</show>
 
 Group: Find - ^([A-Za-z+ ]+):\s*(.*) Replace - <group speaker="$1">$2</group>
+
+
+
+
+
+
+<narration>
+  <dialogue>
+</dialogue>
+</narration>
