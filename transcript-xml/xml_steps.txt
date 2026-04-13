@@ -1,7 +1,7 @@
 These are some of the find and replace I used as a guidline for the transcripts, most frequient ones I used, and my idea of how I wanted it to kinda look 
 
 Step 1 Title card 
-Find:^Title Card:\s*(.+)
+Find:^Title Card:^\[(.*)\]$
 Replace: <titlecard>$1</titlecard>
 
 Step 2 Charcter and their lines 
