@@ -1,7 +1,12 @@
 <show>
+<<<<<<< HEAD
  <titlecard>Hide and Snake, Mfffy's New Best Friend</titlecard>
 <location>Introduction</location>
 <location>(Francine steps into a boxing ring inside a large stadium, with many of the recurring kids and even Bionic Bunny in the audience. A microphone comes down.)</location>
+=======
+<titlecard>Introduction</titlecard>
+(Francine steps into a boxing ring inside a large stadium, with many of the recurring kids and even Bionic Bunny in the audience. A microphone comes down.)
+>>>>>>> main
 
 <line>
   <speaker>Francine</speaker>
@@ -77,7 +82,11 @@
   <dialogue>You know. You're right. I would love to fight someone my own size. You wait here. I'll go find someone. <sfx>screams</sfx></dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>He runs off, pursued by Binky.</location>
+=======
+<stage>He runs off, pursued by Binky.</stage>
+>>>>>>> main
 
 <line>
   <speaker>Binky</speaker>
@@ -88,6 +97,7 @@
   <speaker>D.W.</speaker>
   <dialogue><sfx>laughs</sfx></dialogue>
 </line>
+<<<<<<< HEAD
  <titlecard>Super Sister</titlecard>
 <line>
   <speaker>Buster</speaker>
@@ -147,6 +157,66 @@
 </line>
 
 <location>D.W. runs out of the room.</location>
+=======
+
+<titlecard>Super Sister</titlecard>
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Arthur's Big Hit.</dialogue>
+</line>
+
+ <titlecard>Scene 2: Arthur Builds His Own Model Plane</titlecard>
+<stage>Arthur sits at his desk with a model kit.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What kind of a game is that?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's not a game. It's a scale model of a Bell X-1 Rocket Plane. The plane that broke the sound barrier.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>The sound barrier must be pretty hard. Because this plane is all smashed up.</dialogue>
+</line>
+
+<stage>She takes out some pieces.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's not smashed. I'm gonna build it. Stop touching everything! You'll mix up the pieces!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I’ve never heard of toys that come already broken.</dialogue>
+</line>
+
+<stage>Arthur glares at her.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I'm going. Never say I don't go when you want me to go, because I'm going. Like that. She snaps her fingers. The minute you want me to go, I'm on my way out of here. No waiting.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Go already!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>And if you say please, I go even faster. Because when the--</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Grrr!</dialogue>
+</line>
+>>>>>>> main
 
 <location>***</location>
 
@@ -158,6 +228,7 @@
 </line>
 
 <line>
+<<<<<<< HEAD
   <speaker>D.W.</speaker>
   <dialogue>Is that the same broken plane you were fixing yesterday?</dialogue>
 </line>
@@ -192,28 +263,84 @@
 </line>
 
 <location>***</location>
+=======
+  <speaker>Arthur</speaker>
+  <dialogue>Augh!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Is that the same broken plane you were fixing yesterday?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Don't do that! I need to concentrate!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>That's a pretty color.</dialogue>
+</line>
+
+<stage>She accidentally spills a paint bottle of orange paint over the building instructions.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Augh!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>(nervous laugh) Bye.</dialogue>
+</line>
+
+<stage>She runs away.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hrr...</dialogue>
+</line>
+>>>>>>> main
 
 <location>Later, Arthur and Buster walk upstairs.</location>
 
+<<<<<<< HEAD
 <line>
   <speaker>Arthur</speaker>
   <dialogue>I've been working the plane all week. It's hard, but I'm almost done.</dialogue>
 </line>
 
 <location>They enter Arthur’s room and find D.W. holding the plane’s fuselage.</location>
+=======
+<stage>Later, Arthur and Buster walk upstairs.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I've been working the plane all week. It's hard, but I'm almost done.</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Arthur</speaker>
   <dialogue>D.W., don't touch that! The paint isn't dry!</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>He snatches the plane away and sees fingerprints all over it. D.W.’s fingers are colored orange.</location>
+=======
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>D.W., don't touch that! The paint isn't dry!</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>D.W.</speaker>
   <dialogue>Ew!! Mommy, Arthur made my hands orange!</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>She runs out.</location>
 
 <line>
@@ -222,9 +349,23 @@
 </line>
 
 <location>***</location>
+=======
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Ew!! Mommy, Arthur made my hands orange!</dialogue>
+</line>
+
+<stage>She runs out.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I never thought about it before, but being an only child is nice.</dialogue>
+</line>
+>>>>>>> main
 
 <location>Later, Arthur puts the finished model on a stool in his room.</location>
 
+<<<<<<< HEAD
 <line>
   <speaker>Arthur</speaker>
   <dialogue>It's the best thing I've ever made.</dialogue>
@@ -234,12 +375,21 @@
   <location>his imagination</location>
 <description>, Arthur sits on a table on a stage. Beside him sits an astronaut.</description>
 </scene>
+=======
+<stage>Later, Arthur puts the finished model on a stool in his room.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's the best thing I've ever made.</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Astronaut</speaker>
   <dialogue>Arthur Read. You win the blue ribbon.</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>He puts the ribbon on the model.</location>
 
 <location>Arthur flies the Bell X-1.</location>
@@ -252,12 +402,30 @@
 </line>
 
 <location>He walks downstairs with Pal. D.W. comes out of her room.</location>
+=======
+<line>
+  <speaker>Astronaut</speaker>
+  <dialogue>Arthur Read. You win the blue ribbon.</dialogue>
+</line>
+
+<stage>He puts the ribbon on the model.</stage>
+
+<stage>Arthur flies the Bell X-1.</stage>
+
+<stage>The fantasy ends.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This calls for a celebration snack!</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>D.W.</speaker>
   <dialogue>Did I hear you say cookies?</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>She sees the plane in Arthur’s room and sneaks inside.</location>
 
 <location>Meanwhile in the kitchen, Arthur gives a dog treat to Pal.</location>
@@ -268,12 +436,28 @@
 </line>
 
 <location>Meanwhile upstairs, D.W. runs around holding the plane.</location>
+=======
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Did I hear you say cookies?</dialogue>
+</line>
+
+<stage>She sees the plane in Arthur’s room and sneaks inside.</stage>
+
+<stage>Meanwhile in the kitchen, Arthur gives a dog treat to Pal.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Good boy!</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>D.W.</speaker>
   <dialogue>D.W. Read to headquarters! Sound barrier broken! What's my next mission, General?</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>She sees the open window.</location>
 
 <line>
@@ -289,8 +473,42 @@
 </line>
 
 <location>Outside the window, the model plane falls to the ground. D.W. comes down.</location>
+=======
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>D.W. Read to headquarters! Sound barrier broken! What's my next mission, General?</dialogue>
+</line>
+
+<stage>She sees the open window.</stage>
 
 <line>
+  <speaker>D.W.</speaker>
+  <dialogue>There's a good breeze today, General!</dialogue>
+</line>
+
+<stage>Meanwhile in the living room, Arthur pretends to be an airplane.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(makes airplane noises) Arthur Read, winner of 5,000 blue ribbons, requesting landing coordinates! (makes airplane noises)</dialogue>
+</line>
+>>>>>>> main
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur. You made that plane all wrong. It doesn't fly at all.</dialogue>
+</line>
+
+<line>
+<<<<<<< HEAD
+  <speaker>Arthur</speaker>
+  <dialogue>No, D.W. I made it exactly ri-- What?!</dialogue>
+</line>
+
+<location>The screen shatters like glass.</location>
+
+<location>***</location>
+=======
   <speaker>D.W.</speaker>
   <dialogue>Arthur. You made that plane all wrong. It doesn't fly at all.</dialogue>
 </line>
@@ -300,9 +518,8 @@
   <dialogue>No, D.W. I made it exactly ri-- What?!</dialogue>
 </line>
 
-<location>The screen shatters like glass.</location>
-
-<location>***</location>
+<stage>The screen shatters like glass.</stage>
+>>>>>>> main
 
 <location>Outside the house, the sky has become gray. Arthur looks up at the open window, then down at his smashed plane.</location>
 
@@ -311,18 +528,28 @@
   <dialogue>(gasps)</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>He picks up the broken fuselage and looks shocked and terrified.</location>
 
 <scene>
   <location>his imagination</location>
 <description>, he flies the plane, but it suddenly falls to pieces. He hovers in midair for a second, then he falls, followed by his helmet and, finally, his glasses.</description>
 </scene>
+=======
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(gasps)</dialogue>
+</line>
+
+<stage>He picks up the broken fuselage and looks shocked and terrified.</stage>
+>>>>>>> main
 
 <line>
   <speaker>Arthur</speaker>
   <dialogue><sfx>screams</sfx></dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>The fantasy ends.</location>
 
 <line>
@@ -353,12 +580,48 @@
 </line>
 
 <location>He raises his fist and punches D.W. on the arm. She falls down and looks blank for a moment, then she cries painfully while walking into the house.</location>
+=======
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><sfx>screams</sfx></dialogue>
+</line>
+
+<stage>The fantasy ends.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>If it could break the sound barrier, falling out of a window shouldn't be able to break it!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(angrily) I told you not to touch it!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>You built it all wrong! Did you even read the directions?</dialogue>
+</line>
+
+<stage>Arthur furiously grits his teeth and makes a fist really tightly.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>It didn't fly for one second! It's not my fault if you made a plane that can't fly!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(enraged furiously) I told you not to touch it!</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>D.W.</speaker>
   <dialogue>(crying)</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>Arthur bends to pick up the plane when he hears his mother.</location>
 
 <line>
@@ -374,6 +637,26 @@
 <location>He gets up.</location>
 
 <location>***</location>
+=======
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>(crying)</dialogue>
+</line>
+
+<stage>Arthur bends to pick up the plane when he hears his mother.</stage>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>(angrily) Arthur Timothy Read, come here!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(nervous) Uh-oh. Middle name.</dialogue>
+</line>
+
+<stage>He gets up.</stage>
+>>>>>>> main
 
 <location>Scene 3: The Punishment</location>
 <scene>
@@ -381,6 +664,7 @@
 <description>, D.W. sits beside the kitchen sink. Her father gets an ice pack from the refrigerator.</description>
 </scene>
 
+<<<<<<< HEAD
 <line>
   <speaker>D.W.</speaker>
   <dialogue>Are they gonna have to "amputake" my arm?</dialogue>
@@ -450,6 +734,57 @@
 </line>
 
 <location>He turns away.</location>
+=======
+<titlecard>Scene 3: The Punishment</titlecard>
+In the kitchen, D.W. sits beside the kitchen sink. Her father gets an ice pack from the refrigerator.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Are they gonna have to "amputake" my arm?</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>No, honey, it's "amputate," not "amputake."</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>They're gonna amputate?!</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>No. I'm in charge and I'm putting ice on you.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>(screaming)</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>What's wrong, D.W.?</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>That's cold!</dialogue>
+</line>
+
+<stage>Arthur and his mother stand in the hallway.</stage>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>Apologize to your sister!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No way! She should apologize to me! I worked all week on this! I told her a million times not to touch it!</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Mrs. Read</speaker>
@@ -471,6 +806,7 @@
 </line>
 
 <line>
+<<<<<<< HEAD
   <speaker>Buster</speaker>
   <dialogue>No, I don't believe it! You hit your sister?! That's terrible!</dialogue>
 </line>
@@ -500,6 +836,10 @@
 <line>
   <speaker>Binky</speaker>
   <dialogue>Why not?</dialogue>
+=======
+  <speaker>D.W.</speaker>
+  <dialogue>(bitterly) You're bad!</dialogue>
+>>>>>>> main
 </line>
 
 <line>
@@ -507,6 +847,7 @@
   <dialogue>You're Binky Barnes, you always... You know, I can't remember the last time you hit anybody.</dialogue>
 </line>
 
+<<<<<<< HEAD
 <line>
   <speaker>Binky</speaker>
   <dialogue>Wh-what do you mean?</dialogue>
@@ -524,12 +865,38 @@
 <location>***</location>
 
 <location>The Tough Customers corner Binky at his locker.</location>
+=======
+<stage>A while later, Arthur sits on a chair in the living room facing his parents.</stage>
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>(severly) Arthur, this means no TV for a week.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(dismayed) What?! That is so unfair! You don't even care what she did that to me!</dialogue>
+</line>
+
+<stage>He turns away.</stage>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>We'll deal with what she did, but what you did is also wrong too.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(angrily) Hmm!</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Molly</speaker>
   <dialogue>So, when was it, Bink?</dialogue>
 </line>
 
+<<<<<<< HEAD
 <line>
   <speaker>Dog Boy</speaker>
   <dialogue>Binky does not have to remind us of his past glorious fights.</dialogue>
@@ -572,16 +939,63 @@
 <line>
   <speaker>Binky</speaker>
   <dialogue>Maybe I don't feel like it.</dialogue>
+=======
+<stage>The next morning, Arthur and Buster arrive at school.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(sulking) So I missed Bionic Bunny last night, and I can't watch TV all week! Can you believe that?!</dialogue>
 </line>
 
 <line>
-  <speaker>Molly</speaker>
-  <dialogue>You better feel like it or you're out of the club.</dialogue>
+  <speaker>Buster</speaker>
+  <dialogue>No, I don't believe it! You hit your sister?! That's terrible!</dialogue>
+</line>
+
+<stage>They pass the Tough Customers.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, come on, like you never hit anybody!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Nope!</dialogue>
 </line>
 
 <line>
   <speaker>Binky</speaker>
+  <dialogue>Did you hear that? Arthur hit his sister! I, for one, am shocked!</dialogue>
+</line>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>How could you be shocked about someone hitting someone?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Why not?</dialogue>
+>>>>>>> main
+</line>
+
+<line>
+  <speaker>Molly</speaker>
+<<<<<<< HEAD
+  <dialogue>You better feel like it or you're out of the club.</dialogue>
+=======
+  <dialogue>You're Binky Barnes, you always... You know, I can't remember the last time you hit anybody.</dialogue>
+>>>>>>> main
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+<<<<<<< HEAD
   <dialogue>I can't be out of the club! It's my club. I founded it!</dialogue>
+=======
+  <dialogue>Wh-what do you mean?</dialogue>
+>>>>>>> main
 </line>
 
 <line>
@@ -589,15 +1003,25 @@
   <dialogue>If you wanted everything your own way, you shouldn't have let anyone else join. The next time you see that kid, you sock him!</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>The other Tough Customers leave.</location>
 
 <line>
   <speaker>Binky</speaker>
   <dialogue>The next time I see Arthur, I have to hit him. Oh, what can I do? Hey! What if I never see him?</dialogue>
 </line>
+=======
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>There's the bell! Ha, don't want to be late.</dialogue>
+</line>
+
+<stage>He walks away.</stage>
+>>>>>>> main
 
 <location>***</location>
 
+<<<<<<< HEAD
 <location>Arthur sits in the classroom with Buster, Francine and Muffy. Binky walks into the room while keeping his back turned to Arthur.</location>
 
 <line>
@@ -646,10 +1070,67 @@
 <line>
   <speaker>Molly</speaker>
   <dialogue>You socked that kid yet?</dialogue>
+=======
+<stage>The Tough Customers corner Binky at his locker.</stage>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>So, when was it, Bink?</dialogue>
+</line>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>Binky does not have to remind us of his past glorious fights.</dialogue>
 </line>
 
 <line>
   <speaker>Binky</speaker>
+  <dialogue>That's right.</dialogue>
+</line>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>That he is not afraid of no one is a well-established factoid.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>That's right.</dialogue>
+</line>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>And he can prove it easily by socking the very next kid who turns that corner!</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>That's right. What?!</dialogue>
+</line>
+
+<stage>Arthur comes around the corner.</stage>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>Go ahead, Binky. Sock him!</dialogue>
+</line>
+
+<stage>Arthur passes by.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Maybe I don't feel like it.</dialogue>
+</line>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>You better feel like it or you're out of the club.</dialogue>
+>>>>>>> main
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+<<<<<<< HEAD
   <dialogue>Haven't see him.</dialogue>
 </line>
 
@@ -661,6 +1142,22 @@
 </line>
 
 <location>***</location>
+=======
+  <dialogue>I can't be out of the club! It's my club. I founded it!</dialogue>
+</line>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>If you wanted everything your own way, you shouldn't have let anyone else join. The next time you see that kid, you sock him!</dialogue>
+</line>
+
+<stage>The other Tough Customers leave.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>The next time I see Arthur, I have to hit him. Oh, what can I do? Hey! What if I never see him?</dialogue>
+</line>
+>>>>>>> main
 
 <location>Binky waits outside the school cafeteria. Buster and Francine walk by.</location>
 
@@ -671,6 +1168,7 @@
 
 <line>
   <speaker>Francine</speaker>
+<<<<<<< HEAD
   <dialogue>Yeah.</dialogue>
 </line>
 
@@ -680,6 +1178,20 @@
 </line>
 
 <location>He walks away.</location>
+=======
+  <dialogue>Arthur, why didn't you just apologize?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, come on! She wrecked my plane! Why can't anybody see my side of this?</dialogue>
+</line>
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Uh, because you're wrong.</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Francine</speaker>
@@ -687,6 +1199,7 @@
 </line>
 
 <line>
+<<<<<<< HEAD
   <speaker>Buster</speaker>
   <dialogue>That's awful. We should bring them together. Arthur will thank us.</dialogue>
 </line>
@@ -694,24 +1207,49 @@
 <location>***</location>
 
 <location>Shortly afterwards, Binky is having lunch on the lawn behind the school. Buster drags Arthur out of the door.</location>
+=======
+  <speaker>Francine</speaker>
+  <dialogue>Hey, Binky. Did you hear that Arthur hit his little sister?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Well, I haven't seen Arthur. As far as I know, Arthur isn't even here.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Binky is so upset about what Arthur did that he won't even look at him.</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Buster</speaker>
   <dialogue>Binky's out here somewhere.</dialogue>
 </line>
 
+<<<<<<< HEAD
 <line>
   <speaker>Binky</speaker>
   <dialogue>Er.. oof!</dialogue>
 </line>
 
 <location>He jumps into a bush. A soccer ball flies into the bush.</location>
+=======
+<stage>Class has started.</stage>
+
+<line>
+  <speaker>Mr. Ratburn</speaker>
+  <dialogue>When the day and night are of equal length, it's called the equinox.</dialogue>
+</line>
+>>>>>>> main
 
 <line>
   <speaker>Sue Ellen</speaker>
   <dialogue>I'll get it!</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>Binky hands it out.</location>
 
 <line>
@@ -724,6 +1262,23 @@
 <line>
   <speaker>Sue Ellen</speaker>
   <dialogue>Binky? What are you doing?</dialogue>
+=======
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>You socked that kid yet?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Haven't see him.</dialogue>
+</line>
+
+<stage>He walks away.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>(chuckles) I am so smart.</dialogue>
+>>>>>>> main
 </line>
 
 <line>
@@ -738,6 +1293,7 @@
 
 <line>
   <speaker>Binky</speaker>
+<<<<<<< HEAD
   <dialogue>I don't. That's why I don't wanna see him.</dialogue>
 </line>
 
@@ -755,6 +1311,31 @@
 <line>
   <speaker>Binky</speaker>
   <dialogue>Is Arthur in there?</dialogue>
+=======
+  <dialogue>Psst. Hey. Is Arthur in there?</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Yeah.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>I'll just eat outside then.</dialogue>
+</line>
+
+<stage>He walks away.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Binky won't even eat near Arthur.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>That's awful. We should bring them together. Arthur will thank us.</dialogue>
+>>>>>>> main
 </line>
 
 <line>
@@ -765,15 +1346,27 @@
 <location>Binky runs in, very relieved.</location>
 
 <line>
+<<<<<<< HEAD
   <speaker>Binky</speaker>
   <dialogue>Oh... Oh, thank you, thank you, thank you so much!</dialogue>
 </line>
 
 <location>***</location>
+=======
+  <speaker>Buster</speaker>
+  <dialogue>Binky's out here somewhere.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Er.. oof!</dialogue>
+</line>
+>>>>>>> main
 
 <location>After recess, kids come inside. Arthur talks to Fern.</location>
 
 <line>
+<<<<<<< HEAD
   <speaker>Arthur</speaker>
   <dialogue>She broke my plane!</dialogue>
 </line>
@@ -793,10 +1386,29 @@
 <line>
   <speaker>Buster</speaker>
   <dialogue>Hey, Arthur! Over here!</dialogue>
+=======
+  <speaker>Sue Ellen</speaker>
+  <dialogue>I'll get it!</dialogue>
+</line>
+
+<stage>Binky hands it out.</stage>
+
+<line>
+  <speaker>Sue Ellen</speaker>
+  <dialogue>Thanks.</dialogue>
+</line>
+
+<stage>She stops and comes back.</stage>
+
+<line>
+  <speaker>Sue Ellen</speaker>
+  <dialogue>Binky? What are you doing?</dialogue>
+>>>>>>> main
 </line>
 
 <line>
   <speaker>Binky</speaker>
+<<<<<<< HEAD
   <dialogue>Shh!</dialogue>
 </line>
 
@@ -810,6 +1422,27 @@
 <location>***</location>
 
 <location>The school bell rings and kids leave the building. Binky holds an open book around his head.</location>
+=======
+  <dialogue>Avoiding Arthur. If I don't see him, I don't have to hit him.</dialogue>
+</line>
+
+<line>
+  <speaker>Sue Ellen</speaker>
+  <dialogue>Oh. Why would you want to hit Arthur?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>I don't. That's why I don't wanna see him.</dialogue>
+</line>
+
+<line>
+  <speaker>Sue Ellen</speaker>
+  <dialogue>Hmm... Boys.</dialogue>
+</line>
+
+<stage>She walks away.</stage>
+>>>>>>> main
 
 <line>
   <speaker>Binky</speaker>
@@ -818,6 +1451,7 @@
 
 <location>***</location>
 
+<<<<<<< HEAD
 <location>Scene 4: Binky Hits Arthur/The Punishment's Over/Ending</location>
 <location>Binky, Molly, Rattles and the Dog Boy walk past the Sugar Bowl.</location>
 
@@ -831,6 +1465,23 @@
 <line>
   <speaker>Arthur</speaker>
   <dialogue>Hey Binky! You dropped your pen when you ran out of school, it's kind of sideways, at the end of the day.</dialogue>
+=======
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Is Arthur in there?</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>No.</dialogue>
+</line>
+
+<stage>Binky runs in, very relieved.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Oh... Oh, thank you, thank you, thank you so much!</dialogue>
+>>>>>>> main
 </line>
 
 <line>
@@ -843,6 +1494,7 @@
   <dialogue>(Whispering) Show him, Binky! Pop him one!</dialogue>
 </line>
 
+<<<<<<< HEAD
 <location>Binky looks around at the Tough Customers who grin expectantly.</location>
 
 <line>
@@ -851,8 +1503,160 @@
 </line>
 
 <location>He looks at Arthur, who holds the pen, and hits him on the arm. Arthur falls down.</location>
+=======
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>She broke my plane!</dialogue>
+</line>
 
 <line>
+  <speaker>Fern</speaker>
+  <dialogue>But she's just a little girl.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Saying D.W.'s just a little girl Is like saying a tornado's just a little wind.</dialogue>
+</line>
+>>>>>>> main
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Ow!</dialogue>
+</line>
+
+<line>
+<<<<<<< HEAD
+  <speaker>Molly</speaker>
+  <dialogue>Okay, you're right. He will hit anybody.</dialogue>
+</line>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>All right Binky, you're still in the club! Binky? Where are you going? Hey, Binky!</dialogue>
+=======
+  <speaker>Buster</speaker>
+  <dialogue>Hey, Arthur! Over here!</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Shh!</dialogue>
+>>>>>>> main
+</line>
+
+<location>Binky walks away in embarrassment.</location>
+
+<line>
+  <speaker>Arthur</speaker>
+<<<<<<< HEAD
+  <dialogue>Ow!</dialogue>
+=======
+  <dialogue>Thought someone called my name.</dialogue>
+>>>>>>> main
+</line>
+
+<location>***</location>
+
+<location>Later that night, Arthur sits beside the kitchen sink and his father hands him an ice pack.</location>
+
+<line>
+<<<<<<< HEAD
+  <speaker>Arthur</speaker>
+  <dialogue>And the next thing I knew, I was on the ground. It hurt, and it was embarrassing, and--</dialogue>
+=======
+  <speaker>Binky</speaker>
+  <dialogue>I made it through one whole day. Now only... the rest of my life to go.</dialogue>
+>>>>>>> main
+</line>
+
+<location>D.W. and her mother come in.</location>
+
+<<<<<<< HEAD
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>Well, maybe that's how D.W. felt when you punched her.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Maybe. But what's that got to do with this?! Binky Barnes is huge!</dialogue>
+=======
+<titlecard>Scene 4: Binky Hits Arthur/The Punishment's Over/Ending</titlecard>
+<stage>Binky, Molly, Rattles and the Dog Boy walk past the Sugar Bowl.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>So I never saw that glasses kid again. Probably never will.</dialogue>
+>>>>>>> main
+</line>
+
+<location>His parents stare at him.</location>
+
+<line>
+  <speaker>Arthur</speaker>
+<<<<<<< HEAD
+  <dialogue>Yeah, I guess I get it.</dialogue>
+</line>
+
+<location>D.W. smiles.</location>
+
+<location>Arthur walks into the dining room where D.W. is waiting.</location>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I'm sorry I hit you.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>And I'm sorry I broke your plane. But what kind of a stupid plane doesn't fly?</dialogue>
+=======
+  <dialogue>Hey Binky! You dropped your pen when you ran out of school, it's kind of sideways, at the end of the day.</dialogue>
+</line>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>(Whispering) Here's the chance you've been waiting for.</dialogue>
+</line>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>(Whispering) Show him, Binky! Pop him one!</dialogue>
+</line>
+
+<stage>Binky looks around at the Tough Customers who grin expectantly.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>(gulps)</dialogue>
+>>>>>>> main
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>A model plane.</dialogue>
+</line>
+
+<line>
+<<<<<<< HEAD
+  <speaker>D.W.</speaker>
+  <dialogue>Well, I didn't know. I'm just a child. Give me a break!</dialogue>
+</line>
+
+<location>***</location>
+
+<location>The Next Morning, At the park, Binky lies on a swing looking depressed. Arthur rides by on his bike.</location>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Arthur! Hey. I feel rotten. I want to apologize.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I just wanna thank you.</dialogue>
+=======
   <speaker>Arthur</speaker>
   <dialogue>Ow!</dialogue>
 </line>
@@ -867,24 +1671,55 @@
   <dialogue>All right Binky, you're still in the club! Binky? Where are you going? Hey, Binky!</dialogue>
 </line>
 
-<location>Binky walks away in embarrassment.</location>
+<stage>Binky walks away in embarrassment.</stage>
 
 <line>
   <speaker>Arthur</speaker>
   <dialogue>Ow!</dialogue>
+>>>>>>> main
 </line>
 
-<location>***</location>
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>You... you what?</dialogue>
+</line>
 
-<location>Later that night, Arthur sits beside the kitchen sink and his father hands him an ice pack.</location>
+<<<<<<< HEAD
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Everybody told me I was wrong and I didn't get it. But... you made me understand how bad I made D.W. feel.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Well, you're welcome. But I wouldn't try to help you learn some boring lesson. It was an accident.</dialogue>
+=======
+<stage>Later that night, Arthur sits beside the kitchen sink and his father hands him an ice pack.</stage>
 
 <line>
   <speaker>Arthur</speaker>
   <dialogue>And the next thing I knew, I was on the ground. It hurt, and it was embarrassing, and--</dialogue>
+>>>>>>> main
 </line>
 
-<location>D.W. and her mother come in.</location>
 
+<<<<<<< HEAD
+<location>The other Tough Customers come.</location>
+
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>It's the kid who got hit by Binky and lived.</dialogue>
+</line>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>You deserve to be in our club, kid.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>There is no club. I founded it and I'm de-founding it. Any club that makes you want do something you don't wanna do is dumb. Anybody want to make something of it?</dialogue>
+=======
 <line>
   <speaker>Mr. Read</speaker>
   <dialogue>Well, maybe that's how D.W. felt when you punched her.</dialogue>
@@ -895,18 +1730,39 @@
   <dialogue>Maybe. But what's that got to do with this?! Binky Barnes is huge!</dialogue>
 </line>
 
-<location>His parents stare at him.</location>
+<stage>His parents stare at him.</stage>
 
 <line>
   <speaker>Arthur</speaker>
   <dialogue>Yeah, I guess I get it.</dialogue>
+>>>>>>> main
 </line>
 
-<location>D.W. smiles.</location>
-
-<location>Arthur walks into the dining room where D.W. is waiting.</location>
+<line>
+  <speaker>Dog Boy</speaker>
+  <dialogue>Um, no.</dialogue>
+</line>
 
 <line>
+  <speaker>Binky</speaker>
+  <dialogue>Come on, Arthur. Let's go get a soda.</dialogue>
+</line>
+
+<line>
+<<<<<<< HEAD
+  <speaker>Molly</speaker>
+  <dialogue>Aw, man. Now we’ve got no club.</dialogue>
+</line>
+
+<location>Binky walks up to them.</location>
+
+<line>
+  <speaker>Molly</speaker>
+  <dialogue>Ah!</dialogue>
+</line>
+
+<line>
+=======
   <speaker>Arthur</speaker>
   <dialogue>I'm sorry I hit you.</dialogue>
 </line>
@@ -926,9 +1782,9 @@
   <dialogue>Well, I didn't know. I'm just a child. Give me a break!</dialogue>
 </line>
 
-<location>***</location>
+***
 
-<location>The Next Morning, At the park, Binky lies on a swing looking depressed. Arthur rides by on his bike.</location>
+The Next Morning, At the park, Binky lies on a swing looking depressed. Arthur rides by on his bike.
 
 <line>
   <speaker>Binky</speaker>
@@ -955,8 +1811,7 @@
   <dialogue>Well, you're welcome. But I wouldn't try to help you learn some boring lesson. It was an accident.</dialogue>
 </line>
 
-
-<location>The other Tough Customers come.</location>
+<stage>The other Tough Customers come.</stage>
 
 <line>
   <speaker>Dog Boy</speaker>
@@ -988,7 +1843,7 @@
   <dialogue>Aw, man. Now we’ve got no club.</dialogue>
 </line>
 
-<location>Binky walks up to them.</location>
+<stage>Binky walks up to them.</stage>
 
 <line>
   <speaker>Molly</speaker>
@@ -996,6 +1851,7 @@
 </line>
 
 <line>
+>>>>>>> main
   <speaker>Binky</speaker>
   <dialogue>You guys wanna come with us? How about we form a new club with no dumb hitting and stuff? And if anybody breaks that rule, I'll clobber 'em!</dialogue>
 </line>
