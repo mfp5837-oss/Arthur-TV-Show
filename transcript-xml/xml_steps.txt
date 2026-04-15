@@ -35,6 +35,10 @@ Replace:
   <description>$3</description>
 </scene>
 
+the description part
+find: ^([^<>\n]+)$
+replace: <description>$1</description>
+
 Step 5 Sounds (may be different for each script)
 Find:\((burps|grunts|groans|laughs?|screams?|cheers?)\)
 Replace:<sfx>$1</sfx>
