@@ -122,7 +122,7 @@
 
 <stage>Intertitle</stage>
 
-DRAW!
+  <speaker>DRAW!</speaker>
 
 <line>
   <speaker>Written by</speaker>
@@ -164,8 +164,12 @@ DRAW!
 
 <stage>back in class, the students appear interested</stage>
 
-Mr. Haney (over the speaker): And this is the week of the teachers' charity carnival...fun, fun, fun! See your teachers perform (in his office) and don't miss my fabulous magic and sleight of hand! (the microphone squeaks, Francine covers her ears with books) Oops, that is all.
-
+  <line>
+    <speaker>Mr. Haney (over the speaker)</speaker>
+    <dialogue> And this is the week of the teachers' charity carnival...fun, fun, fun! See your teachers perform (in his office) and don't miss my fabulous magic and sleight of hand! (the microphone squeaks, Francine covers her ears with books) Oops, that is all.
+    </dialogue>
+  </line>
+  
 <stage>in the lunch room, the students are eating off trays</stage>
 
 <line>
@@ -474,7 +478,7 @@ Mr. Haney (over the speaker): And this is the week of the teachers' charity carn
 </line>
 
 
-(Sue Ellen shows Arthur, Muffy, Buster, Fern and the Brain a picture of a frog with Francine's head, Buster and Muffy laugh) Frantic Frog! Fran the stinky sneaker! (she and Muffy giggle) Brain, did you do this one? It's funny! (Arthur looks concernedly at Francine, who's sitting at a table looking peeved)
+  <stage>(Sue Ellen shows Arthur, Muffy, Buster, Fern and the Brain a picture of a frog with Francine's head, Buster and Muffy laugh) Frantic Frog! Fran the stinky sneaker! (she and Muffy giggle) Brain, did you do this one? It's funny! (Arthur looks concernedly at Francine, who's sitting at a table looking peeved)</stage>
 
 <line>
   <speaker>Arthur</speaker>
@@ -678,8 +682,8 @@ Mr. Haney (over the speaker): And this is the week of the teachers' charity carn
 </line>
 
 
-(Mr. Ratburn is doing his puppet show. Fern walks by without looking. Mr. Ratburn looks surprised.) 
-(Mrs. MacGrady is being a fortune teller)
+  <stage>(Mr. Ratburn is doing his puppet show. Fern walks by without looking. Mr. Ratburn looks surprised.) </stage>
+ <stage>(Mrs. MacGrady is being a fortune teller)</stage>
 
 <line>
   <speaker>Mrs. MacGrady</speaker>
