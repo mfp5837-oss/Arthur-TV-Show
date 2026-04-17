@@ -1,27 +1,78 @@
-body { /*background:papayaWhip*/background: url(images/arthur.png);
-    font-family: Arial, Avantgarde, sans-serif;}
-    
-div.side-by-side {
-  display: flex; width: 80%; float:right}
+body {/* background: papayaWhip; */background:#feb94e;font-family: Arial, Helvetica, sans-serif;}
 
-img {width: 59%; max-width: 500px;}
+div.side-by-side {display: flex;width: 80%;float: right;}
 
-.featureBlock {background-color:orange; font-size: smaller;}
+img {width: 30%;max-width: 600px;}
 
-.image {float:right; width:40%; max-width:300px;border:dotted; border-color:white}
+.featureBlock {background-color: orange;font-size: smaller;}
 
-.button {color:white; font-family:roman, 'times new roman', times, serif;}
+.image {float: right;width: 40%;max-width: 300px;border: dotted white;}
 
-.box {border-style:dashed; border-color:blue; margin:5%}
+.button {color: white;font-family: "Times New Roman", Times, serif;font-weight: bold;}
 
-div.threeD{}
-div.threeD iframe{width:90%; max-width:1280px; max-height:840px;}
+.box {border-style: dashed;border-color: black;margin: 5%;}
 
-.text{float:bottom}
+div.threeD {}
 
-.footer{width: 90%}
+div.threeD iframe {width: 90%;max-width: 1280px;max-height: 840px;}
 
-.imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 75%; margin: 15px auto; padding: 1%; border-radius: 12px;}
-    
+.text {vertical-align: bottom;}
 
-.imgzoom img:hover {transform: scale(1.4);}
+.footer {width: 90%;text-align: center;color: white;}
+
+.imgzoom {display: flex;flex-flow: row wrap;align-items: center;width: 75%;margin: 15px auto;padding: 1%;border-radius: 12px;}
+
+/* Navbar container */
+.navbar {background: linear-gradient(to bottom, #ffffff, #feb94e);overflow: hidden;padding: 15px;text-align: center;border-radius: 50px;
+
+  /* 3D effect */
+  box-shadow: 
+    0 6px 15px rgba(0, 0, 0, 0.5),
+    inset 0 2px 4px rgba(255, 255, 255, 0.1),
+    inset 0 -3px 6px rgba(0, 0, 0, 0.6);}
+
+/* Navbar links */
+.navbar a {color: white;text-decoration: none;padding: 14px 20px;display: inline-block;border-radius: 30px;
+
+  /* button look */
+  background: linear-gradient(to bottom, #ff00006b, #ff00009e);
+  box-shadow:0 4px 8px rgba(0, 0, 0, 0.5),
+    inset 0 1px 2px rgba(255, 255, 255, 0.15);
+
+  transition: all 0.2s ease;}
+
+/* Hover effect */
+.navbar a:hover {background: linear-gradient(to bottom, red, white);transform: translateY(-2px);
+  box-shadow:0 6px 12px rgba(0, 0, 0, 0.6);}
+
+/* Click (pressed effect) */
+.navbar a:active {transform: translateY(2px);
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.7);}
+/* Hover effect */
+.navbar a:hover {background-color: #575757;}
+
+/* Main content */
+.content {padding: 20px;text-align: center;}
+
+.imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 75%; margin: 15px auto; padding: 20%; border-radius: 32px;}
+.imgzoom img:hover {transform: scale(4.0);}
+
+.team-box {display: flex;align-items: center;gap: 200px;border: 2px solid white;border-radius: 25px;padding: 20px;}
+
+.profile {width: 80px;height: 70px;border-radius: 25%;overflow: hidden;margin-right: 15px;}
+
+.profile img {width: 100%;height: 100%;object-fit: cover;display: block;}
+
+.member {display: flex;align-items: center;}
+
+h1 {font-family: 'Fredericka the Great', cursive;}
+
+p {font-family: 'Cabin Sketch', cursive;}
+
+h1 {font-size: 4rem;text-align: center;font-weight: bold;font-family: Arial, sans-serif;color: #ffd54f;
+
+  text-shadow:1px 1px 0 black,2px 2px 0 #c49015,3px 3px 0 #b57f10,4px 4px 0 #96690d,5px 5px 10px rgba(0, 0, 0, 0.4);color: black;
+  animation: float 2s ease-in-out infinite;}
+
+@keyframes float {0% {transform: translateY(0px);}50% {transform: translateY(-12px);}100% {transform: translateY(0px);}}
+
