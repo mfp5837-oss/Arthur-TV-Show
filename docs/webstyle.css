@@ -54,8 +54,10 @@ div.threeD iframe {width: 90%;max-width: 1280px;max-height: 840px;}
 /* Main content */
 .content {padding: 20px;text-align: center;}
 
-.imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 75%; margin: 15px auto; padding: 20%; border-radius: 32px;}
+.imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 100%; margin: 20px auto; padding: 30%; border-radius: 32px;}
 .imgzoom img:hover {transform: scale(4.0);}
+.imgzoom2{display: flex; flex-flow: row wrap; align-items: center; width: 120%; margin: 30px auto; padding: 35%; border-radius: 50px;}
+.imgzoom2 img:hover {transform: scale(10.0);}
 
 .team-box {display: flex;align-items: center;gap: 200px;border: 2px solid white;border-radius: 25px;padding: 20px;}
 
