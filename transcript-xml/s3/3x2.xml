@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 <show> </show>
+=======
+<show> 
+>>>>>>> Stashed changes
 <titlecard>The
 Ballad of Buster Baxter</titlecard>
   <description>Mr. Read cuts the cake which is shaped like Buster’s head. The singing moose steps into the picture.</description>
@@ -826,5 +830,9 @@ He leaves. Muffy walks past Buster with her nose held high.
   <speaker>Singing Moose</speaker>
   <dialogue>Buster Baxter.</dialogue>
 </line>
+<<<<<<< Updated upstream
       </description>
+=======
+      
+>>>>>>> Stashed changes
       </show>
