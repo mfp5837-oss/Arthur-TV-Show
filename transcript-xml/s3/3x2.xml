@@ -1,6 +1,7 @@
-<titlecard>The<show>
+<show> </show>
+<titlecard>The
 Ballad of Buster Baxter</titlecard>
-Mr. Read cuts the cake which is shaped like Buster’s head. The singing moose steps into the picture.
+  <description>Mr. Read cuts the cake which is shaped like Buster’s head. The singing moose steps into the picture.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -62,7 +63,7 @@ Mr. Read cuts the cake which is shaped like Buster’s head. The singing moose s
   <dialogue>He went around the world a couple of times / We thought he left the show /</dialogue>
 </line>
 
-Buster sits in an airplane looking out of the window.
+<description>Buster sits in an airplane looking out of the window.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -92,7 +93,7 @@ Buster and Arthur are playing checkers in Arthur’s room.
   <dialogue>Ah, it sure feels good to be back. I was afraid things would have changed around here while I was gone.</dialogue>
 </line>
 
-Arthur takes away the dishes as Brain comes in.
+<description>Arthur takes away the dishes as Brain comes in.</description>
 
 <line>
   <speaker>Brain</speaker>
@@ -134,7 +135,7 @@ Arthur takes away the dishes as Brain comes in.
   <dialogue>"Arthur didn't wanna leave Buster out, of that he can be proud, / but when you're playing checkers… three's a crowd."</dialogue>
 </line>
 
-Arthur, Brain and Buster try to play three-way checkers.
+<description>Arthur, Brain and Buster try to play three-way checkers.</description>
 
 <line>
   <speaker>Arthur</speaker>
@@ -171,7 +172,7 @@ Arthur, Brain and Buster try to play three-way checkers.
   <dialogue>It's okay. It's just nice to be back with my friends again.</dialogue>
 </line>
 
-Arthur and Brain are absorbed in their game.
+<description>Arthur and Brain are absorbed in their game.</description>
 
 <line>
   <speaker>Brain</speaker>
@@ -179,7 +180,7 @@ Arthur and Brain are absorbed in their game.
 </line>
 
 
-Arthur and Brain are writing in the treehouse. Buster stops with his bike.
+<description>Arthur and Brain are writing in the treehouse. Buster stops with his bike.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -236,10 +237,13 @@ Arthur and Brain are writing in the treehouse. Buster stops with his bike.
   <speaker>Binky</speaker>
   <dialogue>I'll get you yet!</dialogue>
 </line>
+  
+  <line>
+    <speaker>Arthur+Brain</speaker>
+    <sfx>laugh</sfx>
+  </line>
 
-(Arthur+Brain laugh)
-
-The fantasy ends.
+<description>The fantasy ends.</description>
 
 <line>
   <speaker>Buster</speaker>
@@ -266,14 +270,14 @@ The fantasy ends.
   <dialogue>Buster, you weren't around. You can help now. We'll all do it.</dialogue>
 </line>
 
-He hands Buster a pencil.
+<description>He hands Buster a pencil.</description>
 
 <line>
   <speaker>Buster</speaker>
   <dialogue>I'll do a scene with pirates riding a pterosaurus to town to crush buildings.</dialogue>
 </line>
 
-A thought bubble shows the pirates on a dinosaur. Arthur and Brain look at him.
+<description>A thought bubble shows the pirates on a dinosaur. Arthur and Brain look at him.</description>
 
 <line>
   <speaker>Brain</speaker>
@@ -301,24 +305,26 @@ A thought bubble shows the pirates on a dinosaur. Arthur and Brain look at him.
   <dialogue>They can crush flowers.</dialogue>
 </line>
 
-The pirates ride their horse over a flowery meadow.
+<description>The pirates ride their horse over a flowery meadow.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
   <dialogue>"Buster Baxter went away and he came back. / He was starting to feel like things had changed..."</dialogue>
 </line>
 
-(Buster sighs)
+  <line>
+    <speaker>Buster</speaker>
+    <sfx>sighs</sfx>
+  </line>
 
-
-Buster and his mom pass a movie theater with posters for “Kresblain 5” and “Carpet of Doom”.
+<description>Buster and his mom pass a movie theater with posters for “Kresblain 5” and “Carpet of Doom”.</description>
 
 <line>
   <speaker>Buster</speaker>
   <dialogue>“Carpet of Doom”! Wow! I wanna see that! I'll call Arthur.</dialogue>
 </line>
 
-Francine, Brain, Arthur and Muffy come out of the theater.
+  <description>Francine, Brain, Arthur and Muffy come out of the theater.</description>
 
 <line>
   <speaker>Francine</speaker>
@@ -357,11 +363,14 @@ Arthur quickly steps in front of her.
   <dialogue>I used to kind of not like Kresblain, but Francine loaned me all the tapes and I caught Kresblamania!</dialogue>
 </line>
 
-He pulls up his pullover to reveal a Kresblain T-shirt.
+<description>He pulls up his pullover to reveal a Kresblain T-shirt.</description>
 
-(Buster gasps)
+<line>
+  <speaker>Buster</speaker>
+  <sfx>gasps</sfx>
+</line>
 
-The Singing Moose appears on a Kresblain poster.
+  <description>The Singing Moose appears on a Kresblain poster.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -378,7 +387,7 @@ The Singing Moose appears on a Kresblain poster.
   <dialogue>Bye.</dialogue>
 </line>
 
-He leaves. The others look after him. All seem embarrassed.
+  <description>He leaves. The others look after him. All seem embarrassed.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -401,7 +410,7 @@ He leaves. The others look after him. All seem embarrassed.
 </line>
 
 
-Buster comes into the school cafeteria with a tray. Muffy, Arthur, Francine, Binky and Brain sit together.
+  <description>Buster comes into the school cafeteria with a tray. Muffy, Arthur, Francine, Binky and Brain sit together.</description>
 
 <line>
   <speaker>Muffy</speaker>
@@ -418,19 +427,22 @@ Buster comes into the school cafeteria with a tray. Muffy, Arthur, Francine, Bin
   <dialogue>"Life can be tough as nails / when your friends think you're a guy who likes to eat snails."</dialogue>
 </line>
 
-Everybody looks embarrassed. Buster walks away.
+  <description>Everybody looks embarrassed. Buster walks away</description>.
 
 
-The kids are doing a square dance in the gym. Buster clumsily dances with Prunella.
+  <description>The kids are doing a square dance in the gym. Buster clumsily dances with Prunella.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
   <dialogue>"The kids forgot they learned to dance when Buster wasn't around. / But, boy, did Buster know it. / He couldn't do-si-do it."</dialogue>
 </line>
 
-Buster+Prunella: Whoa!
 
-Buster knocks down Prunella. Brain catches her. Buster runs away.
+  <line>
+    <speaker>Buster+Prunella</speaker>
+    <dialogue>Whoa!</dialogue>
+  </line>
+  <description>Buster knocks down Prunella. Brain catches her. Buster runs away.<description>
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -443,24 +455,26 @@ Buster knocks down Prunella. Brain catches her. Buster runs away.
 </line>
 
 
-Buster sees a bag of “Muffy & Friends' Scrumptious Smackeroodles” from “How the Cookie Crumbles” in a supermarket.
+  <description>Buster sees a bag of “Muffy &amp; Friends' Scrumptious Smackeroodles” from “How the Cookie Crumbles” in a supermarket.</description>
 
-(Buster sighs)
-
+      <line>
+        <speaker>Buster</speaker>
+        <sfx>sighs</sfx>
+      </line>
 
 <line>
   <speaker>Singing Moose</speaker>
   <dialogue>"Buster was feeling more left out with every passing day / Even when he found something cool..."</dialogue>
 </line>
 
-Arthur sits on a swing at school. Buster brings a key like the one in “Finders Key-Pers”.
+      <description>Arthur sits on a swing at school. Buster brings a key like the one in “Finders Key-Pers”.</description>
 
 <line>
   <speaker>Buster</speaker>
   <dialogue>Arthur! I found a weird key! Maybe it's the key to the city, or a sports car! When we find out, we can split it fifty-fifty.</dialogue>
 </line>
 
-Arthur looks at the key.
+      <description>Arthur looks at the key.</description>
 
 <line>
   <speaker>Arthur</speaker>
@@ -485,7 +499,7 @@ The school bell rings. The kids run out.
   <dialogue>You wanna come to the Kresblain club?</dialogue>
 </line>
 
-Buster makes a face.
+      <description>Buster makes a face.</description>
 
 <line>
   <speaker>Buster</speaker>
@@ -504,10 +518,10 @@ He leaves. Muffy walks past Buster with her nose held high.
   <dialogue>Hm!</dialogue>
 </line>
 
-Buster looks sad.
+      <description>Buster looks sad.</description>
 
 
-Buster and Sue Ellen throw hoops on the school playground.
+      <description>Buster and Sue Ellen throw hoops on the school playground.</description>
 
 <line>
   <speaker>Sue Ellen</speaker>
@@ -549,7 +563,7 @@ Buster and Sue Ellen throw hoops on the school playground.
   <dialogue>Voici "Le Lapin Bionique".</dialogue>
 </line>
 
-Flashback ends.
+      <description>Flashback ends.</description>
 
 <line>
   <speaker>Buster</speaker>
@@ -571,10 +585,10 @@ Flashback ends.
   <dialogue>I don't like checkers. See ya.</dialogue>
 </line>
 
-She leaves. Buster sadly leaves as well.
+      <description>She leaves. Buster sadly leaves as well.</description>
 
 
-Muffy bangs a gavel for the Kresblain Club meeting. Arthur, Francine, Brain and the Singing Moose are present (The latter sits on the couch eating potato chips. Nobody pays any attention to him.)
+      <description>Muffy bangs a gavel for the Kresblain Club meeting. Arthur, Francine, Brain and the Singing Moose are present (The latter sits on the couch eating potato chips. Nobody pays any attention to him.)</description>
 
 <line>
   <speaker>Arthur</speaker>
@@ -617,14 +631,14 @@ Muffy bangs a gavel for the Kresblain Club meeting. Arthur, Francine, Brain and 
 </line>
 
 
-The kids are having a “Welcome Back Buster” party. Sue Ellen dances Limbo.
+      <description>The kids are having a “Welcome Back Buster” party. Sue Ellen dances Limbo.</description>
 
 <line>
   <speaker>Sue Ellen</speaker>
   <dialogue>Wow!</dialogue>
 </line>
 
-Francine is dancing while Arthur stands sadly at the buffet.
+      <description>Francine is dancing while Arthur stands sadly at the buffet.</description>
 
 <line>
   <speaker>Francine</speaker>
@@ -646,7 +660,7 @@ Francine is dancing while Arthur stands sadly at the buffet.
   <dialogue>Buster isn't here!</dialogue>
 </line>
 
-Everybody stops and looks around. Binky looks under an armchair and finds Pal.
+      <description>Everybody stops and looks around. Binky looks under an armchair and finds Pal.</description>
 
 <line>
   <speaker>Binky</speaker>
@@ -663,7 +677,7 @@ Everybody stops and looks around. Binky looks under an armchair and finds Pal.
   <dialogue>She must be right. Why else wouldn't he come to the party?</dialogue>
 </line>
 
-Meanwhile Buster is watching TV looking as if he was about to cry. The Singing Moose stands in the room.
+      <description>Meanwhile Buster is watching TV looking as if he was about to cry. The Singing Moose stands in the room</description>.
 
 <line>
   <speaker>Singing Moose</speaker>
@@ -680,9 +694,12 @@ Meanwhile Buster is watching TV looking as if he was about to cry. The Singing M
   <dialogue>(sad tune:) "He's a sad, sad bunny. A sad, sad, sad, sad bunny..."</dialogue>
 </line>
 
-(Buster sighs)
+<line>
+  <speaker>Buster</speaker>
+  <sfx>sighs</sfx>
+</line>
 
-Meanwhile back at the party.
+      <description>Meanwhile back at the party.</description>
 
 <line>
   <speaker>Arthur</speaker>
@@ -709,7 +726,7 @@ Meanwhile back at the party.
   <dialogue>I thought Brain invited him.</dialogue>
 </line>
 
-Brain turns off the music.
+      <description>Brain turns off the music.</description>
 
 <line>
   <speaker>Brain</speaker>
@@ -722,16 +739,16 @@ Brain turns off the music.
 </line>
 
 
-Buster opens the door to find his friends waiting outside.
+      <description>Buster opens the door to find his friends waiting outside.</description>
 
-They watch Buster’s travel slides together.
+          <description>They watch Buster’s travel slides together.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
   <dialogue>"Buster Baxter and his friends got a brand-new start / It was just like they'd never been apart."</dialogue>
 </line>
 
-The slides show Buster at Mount Rushmore, in front of a cable car in the mountains, in front of the Sphinx, with a penguin, in front of the Empire State Building and in front of the Colosseum.
+      <description>The slides show Buster at Mount Rushmore, in front of a cable car in the mountains, in front of the Sphinx, with a penguin, in front of the Empire State Building and in front of the Colosseum.</description>
 
 (Francine+Arthur laugh)
 
@@ -745,7 +762,7 @@ The slides show Buster at Mount Rushmore, in front of a cable car in the mountai
   <dialogue>Buster. Pass the popcorn!</dialogue>
 </line>
 
-Buster looks at the empty bowl in front of him.
+      <description>Buster looks at the empty bowl in front of him.</description>
 
 <line>
   <speaker>Buster</speaker>
@@ -767,16 +784,16 @@ Buster looks at the empty bowl in front of him.
   <dialogue>He is the same old Buster!</dialogue>
 </line>
 
-Buster smiles.
+      <description>Buster smiles.</description>
 
-The Singing Moose stands outside.
+      <description>The Singing Moose stands outside.</description>
 
 <line>
   <speaker>Singing Moose</speaker>
   <dialogue>"That's how it happened / You can see / to Buster and the kids in Elwood City. / Now they know when you're close friends / you can always get back together again."</dialogue>
 </line>
 
-Buster and Arthur run to the window.
+      <description>Buster and Arthur run to the window.</description>
 
 <line>
   <speaker>Buster</speaker>
@@ -793,7 +810,7 @@ Buster and Arthur run to the window.
   <dialogue>"Buster Baxter went away and he came back. / Buster Baxter... (hums)"</dialogue>
 </line>
 
-He walks away.
+      <description>He walks away.</description>
 
 <line>
   <speaker>Buster</speaker>
@@ -809,4 +826,5 @@ He walks away.
   <speaker>Singing Moose</speaker>
   <dialogue>Buster Baxter.</dialogue>
 </line>
-</show>
+      </description>
+      </show>
