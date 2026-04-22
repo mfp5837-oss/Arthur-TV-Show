@@ -1,0 +1,834 @@
+<xml>
+<titlecard>Buster's Back</titlecard>
+Introduction
+A space shuttle approaches a futuristic NASA ground station. Arthur is part of mission control.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Mission Control to Explorer 17. Mission Control to Explorer 17.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>This is Explorer 17. Hi, Arthur.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hi, Buster. How was Jupiter?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>It was gaseous. Wait till you see my pictures.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Let's get together later and look at them at the Sugar Bowl. It'll be just like old times. Buster’s space shuttle enters Earth’s atmosphere and lands on platform outside the ground station. (Crowd cheer) Buster appears in the doorway. Hey, Buster. Welcome back. I have our bikes here ready to go.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Oh, it's great to come home to my little town. He takes a step forward and his leg bursts into flame. (Arthur gasps) Wow, this town's changed. His head briefly becomes invisible. Huh?</dialogue>
+</line>
+
+Then one arm mutates into living rock while the other extends like rubber.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No, it's the same. You've changed!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Gee, you think it's those cosmic rays I went through?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I don't think this is gonna be just like old times.</dialogue>
+</line>
+
+<titlecard>Spaceship</titlecard>
+<scene>
+  <location>the kitchen table</location>
+  <description>, Mrs. Read tries to feed Kate.</description>
+</scene>
+
+<line>
+  <speaker>Kate</speaker>
+  <dialogue>No... no... no.</dialogue>
+</line>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>Come on, Kate, eat your breakfast.</dialogue>
+</line>
+
+<stage>Kate moans</stage>
+
+
+D.W. tries her cereal and spits it out. Arthur comes in.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I had the worst nightmare. Buster went into outer space and came back completely changed.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Who's Bumster?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Mom, make her stop! She knows who Buster is.</dialogue>
+</line>
+
+Mr. Read stands at the stove with a cookbook and a bubbling pot of something brown.
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>More eating and less arguing, please. I'm trying to crack the secret of fried liver paste.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Eww!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Yuck!</dialogue>
+</line>
+
+The phone rings.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I got it!</dialogue>
+</line>
+
+He runs to the phone.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hello? Yeah. Yeah! Yeah!!</dialogue>
+</line>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>Arthur, are you okay?</dialogue>
+</line>
+
+The receiver hangs beside the phone.
+
+Mrs. Baxter (on phone): Arthur? Hello? Hello?
+
+Arthur runs into the kitchen.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster's coming home! That was his mom! He's coming home today!</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>I've never seen him so happy.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Bus Stop must be bringing dessert.</dialogue>
+</line>
+
+Her parents give her odd looks.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What?</dialogue>
+</line>
+
+***
+
+Arthur rides his bike out of the garage.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Wah-hoo!</dialogue>
+</line>
+
+***
+
+He races back and forth outside Brain’s window where Brain is playing a video game.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster's... coming... home!</dialogue>
+</line>
+
+Brain looks annoyed.
+
+***
+
+Some kids are playing baseball. Binky pitches and Francine is up to bat when Arthur races past.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster's coming home!</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>What?</dialogue>
+</line>
+
+She ignores the ball.
+
+<line>
+  <speaker>Umpire</speaker>
+  <dialogue>Strike three!</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>What?!</dialogue>
+</line>
+
+***
+
+Arthur races past the Crosswire Mansion. Inside, Muffy and Maria are scuba diving in their pool.
+
+<stage>Muffy gasps</stage>
+
+
+Arthur dives up to them wearing swimming trunks and a bicycle helmet and holding a drawing showing a stick Buster, an arrow and a house.
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Buster pointing at a building?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster's...coming...home!</dialogue>
+</line>
+
+***
+
+Mrs. Baxter is still on the phone trying to talk to Arthur when Arthur races past her window.
+
+<line>
+  <speaker>Mrs. Baxter</speaker>
+  <dialogue>Hello? Arthur? Hello? Are you there?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster's coming home!</dialogue>
+</line>
+
+***
+
+A while later, Mrs. Read packs groceries into the freezer. Arthur runs into the kitchen.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Make sure there's plenty of food because Buster eats a lot.</dialogue>
+</line>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>I know, I know.</dialogue>
+</line>
+
+***
+
+<scene>
+  <location>the workshop</location>
+  <description>, Mr. Read takes a cake out of the oven that is shaped like Buster’s head.</description>
+</scene>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster's gonna love this cake. How many kids get to eat their own face?</dialogue>
+</line>
+
+***
+
+Arthur searches his cupboard, throwing toys everywhere. D.W. stands in the door.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What are you hiding from now?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I'm looking for Buster's favorite, exciting, cool game, so we can play it as soon as he gets here.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Hm.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Got it!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Checkers?? Checkers is your most exciting, cool game?!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I don't even hear you! (hums)</dialogue>
+</line>
+
+He unpacks the game on the table.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>You don't even know if he likes checkers anymore. Or if he'll even wanna be your friend anymore.</dialogue>
+</line>
+
+She points to the pinboard with photographs of Buster.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I mean, he's been over the world, and you've been in your room. (Arthur hums much louder) leaves.</dialogue>
+</line>
+
+***
+
+Arthur rides his bike beside Francine.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Do you think Buster might not wanna be friends anymore because I'm not as exciting as Wisconsin?</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>It's possible. My cousin went to Kentucky for a summer and came back with an accent. It's like she came back a different person.</dialogue>
+</line>
+
+<stage>Arthur gasps</stage>
+
+
+Arthur imagines opening the door to Buster, who is wearing a suit, tie and bowler hat and holding an umbrella.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Pip-pip! Tally-ho. Crumpets.</dialogue>
+</line>
+
+The fantasy ends.
+
+***
+
+Arthur talks to Brain at his window.
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>People change when they add to their knowledge. Would you wanna go back to playing with baby toys?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No.</dialogue>
+</line>
+
+He imagines opening the door and finding Buster outside in a Lamborghini.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Buongiorno, Arturo. [Good day, Arthur.]</dialogue>
+</line>
+
+Another sports car whizzes past.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Arrivederci, Arturo. [Goodbye, Arthur.]</dialogue>
+</line>
+
+He races off.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hi! Er...bye.</dialogue>
+</line>
+
+The fantasy ends.
+
+***
+
+Arthur consults Prunella in her room.
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>You must look at this logically. We'll check your horoscope. "You will change jobs."</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I don't have a job!</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Okay. How about Buster's, then? "Big changes in store. (Arthur gasps) You feel like a new person."</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, no!</dialogue>
+</line>
+
+He imagines opening the door to Buster who is dresses like a samurai.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Osamu Tezuka-san wa manga no kamisama desu. [Osamu Tezuka is the god of manga.] Arthur closes the door. When he opens it again, Buster is sitting on a donkey wearing cowboy clothes. Howdy! (Arthur gasps) Howdy, howdy, howdy! The donkey’s saddle has a bike handlebar. Buster extends the side stand and tilts the donkey to the side. Yep! Arthur closes the door. When he opens it again, Buster is sitting on an elephant dressed as if for an English foxhunt. No time for checkers. We're training for the Grand Nationals.</dialogue>
+</line>
+
+He rides off and jumps over obstacles.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Whoa!</dialogue>
+</line>
+
+The fantasy ends.
+
+***
+
+Arthur lies on his bed with Pal.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This can't happen, can it? Can Buster have changed that much? Sure, he did a lot of new, exciting things, but I did stuff that was just as good.</dialogue>
+</line>
+
+Arthur looks at the photos on the pinboard. One of them becomes animated. It shows Buster photographing an old Greek or Roman temple.
+
+A split screen shows Arthur watching TV.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>‘The Origin of Bionic Bunny’. Now I've seen it an even hundred times.</dialogue>
+</line>
+
+Buster climbs a high mountain with his dad, while Arthur pokes a stick in a puddle and is splashed by a car driving past.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wow!</dialogue>
+</line>
+
+Buster and his dad ride a jeep through a stampede of wild animals while Arthur reads comics in the treehouse.
+
+The fantasies end.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What if Buster thinks I'm boring?</dialogue>
+</line>
+
+Mr. Read looks in.
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>I called the airport. Buster's plane will arrive in two hours.</dialogue>
+</line>
+
+The clock says 01:16.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Two hours! I only have two hours to get ready for the new Buster!</dialogue>
+</line>
+
+~~~
+
+<scene>
+  <location>the library</location>
+  <description>, Miss Turner helps Arthur search for books.</description>
+</scene>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>And a book on mountain climbing, and Rome, and China, and Wisconsin...</dialogue>
+</line>
+
+Arthur comes out of the library carrying a stack of books.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I forgot the Sahara Desert.</dialogue>
+</line>
+
+Miss Turner puts one more book on his stack.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(grunts) Thank you, Miss Turner.</dialogue>
+</line>
+
+***
+
+Arthur lies on the floor in his room and tries to read twelve books at once. They lie in a circle around him.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>China... (mutters) The Alps... (mutters) Antarctic penguins... (mutters)</dialogue>
+</line>
+
+Pal whines and Arthur realizes that the clock now says 03:17.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, no! Time's up! Buster will home right now!</dialogue>
+</line>
+
+He runs out of the room.
+
+***
+
+Mr. and Mrs. Read are watching a knitting competition on TV.
+
+Male Commentator (on TV): Look at the clock. Could be another world record for the champ.
+
+Female Commentator (on TV): And don't forget, in the all-Canada knitting finals, Curt Marillo made an entire flag and a dozen tube socks in under 15 minutes.
+
+Male Commentator (on TV): Looks like trouble. The champ has just jabbed himself.
+
+Female Commentator (on TV): I see blood. If the garment is stained, he loses big points.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Mom! Did Buster call?</dialogue>
+</line>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>No, honey.</dialogue>
+</line>
+
+Arthur paces in the hallway.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I hope I know enough stuff now. I'm too nervous to read any more.</dialogue>
+</line>
+
+***
+
+A while later, Arthur waits by the phone.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>He's not gonna call. D.W. is right. He doesn't wanna talk to me anymore.</dialogue>
+</line>
+
+***
+
+Mr. Read is vacuuming upstairs.
+
+<line>
+  <speaker>Mr. Read</speaker>
+  <dialogue>Arthur? Arthur stands by the window looking sad. (Arthur sniffs) I'm sure Buster will call you as soon as he can.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah, right. Sure. Whatever.</dialogue>
+</line>
+
+Arthur looks at the table with the checkerboard. Ghostly figures of himself and a bored looking Buster appear. Buster is wearing a frilly shirt.
+
+<line>
+  <speaker>Vision of Arthur</speaker>
+  <dialogue>Let's play checkers!</dialogue>
+</line>
+
+<line>
+  <speaker>Vision of Buster</speaker>
+  <dialogue>Checkers?? I will not fritter away valuable time on such trivialities. If checkers is your idea of an exciting game, perhaps you need a new friend. I went around the whole wide world, you know.</dialogue>
+</line>
+
+<stage>Vision of Arthur sighs</stage>
+
+
+The figures vanish.
+
+D.W. comes up the stairs. Arthur is putting away the checkers board when she comes in.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Aren’t you playing an exciting game of checkers with Bus Stop?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Buster! And I have other friends, you know. If he doesn't want to come over, fine. I don't need him to have fun.</dialogue>
+</line>
+
+He starts taking Buster’s photos off a pinboard.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>There's Brain and Francine and Muffy.</dialogue>
+</line>
+
+He throws the photos into the wastepaper basket.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Like flying in a plane makes you a big man or something. How interesting can some old ruins be anyway?</dialogue>
+</line>
+
+Buster comes in.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Oh, it was really interesting. Hi.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hi.</dialogue>
+</line>
+
+He hides the photos behind his back.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Hi, Bus Stop.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Hi, P.W.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>(giggles) You're silly!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I was just, er... organizing your photos.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Are you organizing used tissues and old gum too?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Go away!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I brought some stuff for you guys. It's downstairs.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Presents!</dialogue>
+</line>
+
+They start going downstairs.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Did you see the famous white cliffs of Dover in England?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Yeah, sure. They were white all right.</dialogue>
+</line>
+
+***
+
+<scene>
+  <location>in the living room Buster takes a small stature of the Eiffel Tower out of a bag.</location>
+</scene>
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Wow! Is this what doctors give shots within another country?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>No</dialogue>
+  <dialogue> that's...</dialogue>
+
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>That's the famous Eiffel Tower. It's in Paris, France. It's nine hundred and eighty feet tall, right?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I guess. I rode on the top of a double-decker in London.</dialogue>
+</line>
+
+He takes out a model.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>In England, a truck is called a lorry, and the trunk of your car is the boot, right?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I think so. There was one really exciting thing I wanted to do the whole time while I was away...</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>To climb Mount Everest, the highest mountain in the world, located in the Himalayas, 8846 meters tall?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>No. Something exciting.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>To walk on the Great Wall of China, located in... (thinks) China?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>No, I...</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>To ride a mule down the Grand Canyon, a gorge in northwestern Arizona, cut by the Colorado River over a period of two million years?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>No, no, no, no. Something exciting.</dialogue>
+</line>
+
+Arthur looks baffled.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I wanted to play checkers with you, just like old times.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>(smiles) Really?!</dialogue>
+</line>
+
+Arthur and Buster play checkers in Arthur’s room.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I would have come over hours ago, but I fell asleep on the ride home and my mom didn't wake me up.</dialogue>
+</line>
+
+Arthur Oh. I thought maybe you didn't feel like coming over.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>What, and miss this?</dialogue>
+</line>
+
+He sees the books on Arthur’s bed.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Did you read all those?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I just started.</dialogue>
+</line>
+
+D.W. comes in.
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>I can't believe you think checkers is exciting!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Yeah.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Are you sure you went all around the whole wide world?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I thought it was exciting before I went around the world.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah, what'd you think, D.W.? He was gonna be all different now?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>You know, it was worth coming back just for this.</dialogue>
+</line>
+
+He makes the winning move.
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Aw.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Yay!</dialogue>
+</line>
+
+Arthur gives her a reproachful look.
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I'm glad you still like checkers. I was afraid you might have changed while I was gone.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>After this game, want some cake? My dad made it.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Yeah, but only if we can play another game of checkers after that.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Sure.</dialogue>
+</line>
+</xml>
