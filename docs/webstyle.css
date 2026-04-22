@@ -78,3 +78,36 @@ h1 {font-size: 4rem;text-align: center;font-weight: bold;font-family: Arial, san
 
 @keyframes float {0% {transform: translateY(0px);}50% {transform: translateY(-12px);}100% {transform: translateY(0px);}}
 
+details {
+    margin: 15px 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+}
+
+summary {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    transition: color 0.2s ease;
+}
+
+summary:hover {
+    color: #0077ff;
+}
+
+.episode-content {
+    padding: 10px 0;
+}
+
+.episode-content img {
+    max-width: 250px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+h4 {
+    margin-top: 15px;
+}
