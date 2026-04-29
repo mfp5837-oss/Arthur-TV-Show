@@ -2,8 +2,9 @@
 .photo-item .cyto {
     width: 100%;
     height: auto;
-    border: 1px solid #ccc; /* Optional: adds a nice border */
+    border: 4px solid #ccc; /* Optional: adds a nice border */
     border-radius: 8px;
+    
 }
 
 
@@ -68,6 +69,8 @@ div.threeD iframe {width: 90%;max-width: 1280px;max-height: 840px;}
 .imgzoom img:hover {transform: scale(4.0);}
 .imgzoom2{display: flex; flex-flow: row wrap; align-items: center; width: 120%; margin: 30px auto; padding: 35%; border-radius: 50px;}
 .imgzoom2 img:hover {transform: scale(10.0);}
+.imgzoom3 img:hover {transform: scale(2.5);}
+.imgzoom4 img:hover {transform: scale(1.0);}
 
 .team-box {display: flex;align-items: center;gap: 200px;border: 2px solid white;border-radius: 25px;padding: 20px;}
 
