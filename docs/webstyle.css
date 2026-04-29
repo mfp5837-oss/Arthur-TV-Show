@@ -1,3 +1,13 @@
+.photo-item img, 
+.photo-item .cyto {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc; /* Optional: adds a nice border */
+    border-radius: 8px;
+}
+
+
+
 body {/* background: papayaWhip; */background:#feb94e;font-family: Arial, Helvetica, sans-serif;}
 
 div.side-by-side {display: flex;width: 80%;float: right;}
