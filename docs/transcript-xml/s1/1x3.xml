@@ -1,0 +1,644 @@
+<xml>
+<titlecard>Ratburn</titlecard>
+Introduction
+<stage>A group of students is huddled outside Mr. Haney's office.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Mr. Haney is about to post a list that tells us which teacher we'll get this year.</dialogue>
+</line>
+
+<stage>Mr. Haney enters with the list. The students gasp and murmur in anticipation.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Uh-oh.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Haney</speaker>
+  <dialogue>Oh! Forgot a tack. [reenters office]</dialogue>
+</line>
+
+<line>
+  <speaker>Francine and Binky</speaker>
+  <dialogue>Huh?!</dialogue>
+</line>
+
+<stage>Students groan.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>There are three teachers for third grade: Mrs Sweetwater, she's nice; Mrs. Fink, she's fun...</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Billy, name three oceans.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>...and Mr. Ratburn, the toughest, scariest teacher in school—no, in the whole world—no, in the whole history of the world.</dialogue>
+</line>
+
+<stage>Mr. Haney pins the list to the billboard.</stage>
+
+<line>
+  <speaker>Student</speaker>
+  <dialogue>Oh, here comes the list.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Let's go look. Arthur, we're... in the Rat's class!</dialogue>
+</line>
+
+<stage>Arthur, Buster, Binky, Brain, and Maria scream. Binky faints.</stage>
+
+
+Title Card
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>(V.O.) Arthur and the Real Mr. Ratburn</dialogue>
+</line>
+
+Episode
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Maybe you read the list wrong, Francine. Let me look. You're right. It's Ratburn!</dialogue>
+</line>
+
+<stage>On the baseball field</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue><sfx>chanting fearfully</sfx> Ratburn... Ratburn... Ratburn... Ratburn... Ratburn... Ratburn...</dialogue>
+</line>
+
+<stage>On the soccer field</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue><sfx>chanting in a confusing way</sfx> Ratburn... Ratburn... Ratburn... Ratburn...</dialogue>
+</line>
+
+<stage>A soccer ball bounces off her head and lands in the goal.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue><sfx>continues</sfx> Ratburn... Ratburn...</dialogue>
+</line>
+
+<stage>Walking down the sidewalk</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><sfx>chants in a sad way while walking with the others</sfx> Ratburn... Ratburn...</dialogue>
+</line>
+
+<line>
+  <speaker>Mrs. Powers</speaker>
+  <dialogue>Free samples of a new flavor, Rocky Rope. All you can eat!</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Maybe he's not as rigorous as everyone says.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Prunella had him last year. Let's ask her.</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>[laughs] "Is the Rat bad?" Does a bull fight? He eats nails for breakfast...</dialogue>
+</line>
+
+<stage>The others gasp. The imagination ending music plays by mistake to make the imagination start.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>...without milk!</dialogue>
+</line>
+
+<stage>In an imagine spot, Ratburn is seen pouring a bowl of nails. He eats a spoonful, stopping to pull a screw out of his mouth and toss it away. He then eats the spoon. The imagination beginning music plays by mistake to make the imagination end.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>And make sure you never answer any questions wrong... or he'll send you to death row.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Death row?</dialogue>
+</line>
+
+<stage>Arthur is seen locked in a dungeon.</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Have you done your math exercises?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I did the first 5000, sir.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Then you have 9,995,000 left! Get to work! And after that, you have 37,000,000 spelling words to memorize. And you spiders, get moving!</dialogue>
+</line>
+
+<stage>Spiders are seen spinning a web that looks like a map of the world.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>And he's also a weird vampire... with hypnotic, magic powers.</dialogue>
+</line>
+
+<stage>The mistakable imagination ending music plays again. The organ music plays. Ratburn is seen opening his casket at the front of the class.</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>You are in my power.</dialogue>
+</line>
+
+<line>
+  <speaker>Students</speaker>
+  <dialogue>We do not like recess.</dialogue>
+</line>
+
+<stage>Back to reality by the same mistakable imagination beginning tune.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Well, good luck!</dialogue>
+</line>
+
+<stage>all groan</stage>
+
+<stage>In Ratburn's classroom</stage>
+
+<stage>Arthur gasps before shushing happens by a student in the distance.</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Good morning, everyone. Welcome to grade three. My name is Mr. Ratburn.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>He doesn't look so bad.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>It's probably a trick.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Let's start with a two-minute math quiz to see what you remember from second grade.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>I told you it was a trick.</dialogue>
+</line>
+
+<stage>Ratburn hands out the quiz. Arthur sees Mrs. Sweetwater's class having fun and eating popcorn, while Mrs. Fink's is exercising to the beat of a boombox.</stage>
+
+<line>
+  <speaker>Mrs. Fink</speaker>
+  <dialogue>Welcome to the first day of school. School is cool! School is cool!</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Arthur Read, you'd better concentrate on those problems before time's up.</dialogue>
+</line>
+
+<stage>The scene changes to the end of the day, at 3:00 PM. The other classes burst out the doors and run outside at the final bell, while Mr. Ratburn calmly opens his door.</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Class, you may now file out in an orderly fashion. Quietly. No talking. Arthur Read, are you standing in your proper alphabetical position?</dialogue>
+</line>
+
+<stage>Arthur moves behind Francine. Cut to the baseball field.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Boy, Ratburn's tough! He gave us homework on the first day.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Get with it, Arthur. We're not dealing with a human being here. This is serious!</dialogue>
+</line>
+
+<stage>Binky hits the ball into the bushes under Ratburn's window</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You find it yet?</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Hello, this is Mr. Ratburn.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Shhh!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Uh-oh.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Yes, I have all the eyes I need, but I'm completely out of heads. I need heads. I can wait for girls' heads, but I must have boys' heads immediately.</dialogue>
+</line>
+
+<stage>Arthur starts to leave</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wait, he'll see us! And we have... boys' heads!</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>There's no time! I need them now. I'll have to get them myself. [hangs up]</dialogue>
+</line>
+
+<stage>Arthur and Buster scream and take off in a puff of dust, running really fast to the Sugar Bowl.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>What are you doing?</dialogue>
+</line>
+
+<stage>Arthur and Buster scream.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Ratburn. He—He's looking for body parts—heads! Boys' heads!</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>You must have heard wrong. A vampire doesn't need heads.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This is no ordinary vampire.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>He's beyond vampire.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What's beyond a vampire?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>A Ratburn!</dialogue>
+</line>
+
+<stage>Ratburn is seen across the street walking to a Hardware Store. Arthur and Buster scream and hide behind Francine.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Hey! What—</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Stand still. He wants boy heads, not girls'.</dialogue>
+</line>
+
+<stage>The three look in the window of the hardware store and see Ratburn picking up a box of nails.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Breakfast!</dialogue>
+</line>
+
+<stage>Ratburn picks up a saw and puts it in his bag. Arthur and Buster hold their necks.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>What do you think he's gonna do with that saw?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I read a book where kids discovered a scary mystery like this and became detectives to solve it.</dialogue>
+</line>
+
+<stage>Ratburn exits the store. The three scream and run into an alley in a cartoonish manner.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>We should probably investigate.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You know, we have a lot of homework to do.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>You're just a fraidy-cat.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Arthur, we have to choose: face horrifying, scary danger or do our homework.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine and Arthur</speaker>
+  <dialogue>Horrifying, scary danger.</dialogue>
+</line>
+
+<stage>The three surreptitiously observe Ratburn checking out books at the library, reading a newspaper, and refereeing a basketball game.</stage>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>I'm bored. He's not doing anything weird. You probably heard him talking about heads of lettuce.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Boy heads of lettuce? I don't think so, Francine.</dialogue>
+</line>
+
+<line>
+  <speaker>Francine</speaker>
+  <dialogue>Oh, yeah? It's probably the term grocers use for the rotten ones. I'm gonna do my homework.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Arthur, look!</dialogue>
+</line>
+
+<stage>Ratburn is seen wheeling a large suitcase down a flight of stairs. Suddenly, it opens and an arm pokes out. Ratburn puts it back and closes the case, when suddenly his watch beeps. It's 3:45. He rushes off with the suitcase.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>[afraid] M-Maybe we should go do our homework.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Come on.</dialogue>
+</line>
+
+<stage>At the entrance to the carnival</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>He went into the carnival.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Of course he went into the carnival. Look at all those boy heads!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We've got to warn them.</dialogue>
+</line>
+
+<stage>They go into a mirror funhouse, and Mr. Ratburn approaches.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Oh, no! He's got us! We're trapped!</dialogue>
+</line>
+
+<stage>Mr. Ratburn walks past without noticing the boys...</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Look! There he goes! Come on! He went into that booth.</dialogue>
+</line>
+
+<stage>Arthur and Buster enter the booth and get sprayed with water guns. They leave.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Okay, it was that one.</dialogue>
+</line>
+
+<stage>Inside that booth, Mrs. MacGrady is taking a picture of Mr. Haney sitting on a horse.</stage>
+
+<line>
+  <speaker>Mr. Haney</speaker>
+  <dialogue>This is very authentic, Mrs. MacGrady, but I'd prefer a real action pose.</dialogue>
+</line>
+
+<stage>Arthur bumps a cactus cutout, which falls and startles the horse. The camera captures him right before he falls off, resulting in an unintentional action pose.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Sorry, sir.</dialogue>
+</line>
+
+<stage>Back outside</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Okay, I pick this time.</dialogue>
+</line>
+
+<stage>He points to another booth, inside which can be seen two silhouettes; one of them is Mr. Ratburn. Arthur and Buster gasp.</stage>
+
+<line>
+  <speaker>Arthur and Buster</speaker>
+  <dialogue>One... two... three... go!</dialogue>
+</line>
+
+<stage>They run inside, finding themselves on stage in front of an audience of kids, including the rest of Mr. Ratburn's class.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Run away!</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>You're not safe! He'll get you!</dialogue>
+</line>
+
+<stage>The audience laughs. The boys look and see two life-size marionettes of Jack of "Jack and the Beanstalk" and a radio.</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>[as Jack] Hey, you're not in this story.</dialogue>
+</line>
+
+<line>
+  <speaker>Puppet radio</speaker>
+  <dialogue>And you're doing my lines! I warn Jack to run away, but not till he hears "Fee-fi-fo—" you know the drill.</dialogue>
+</line>
+
+<stage>The audience laughs again.</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Arthur, Buster, get off the stage! [in Jack's voice] Okay, fellas, when you leave that castle, make a left, down that beanstalk, and you'll be back in Elwood City.</dialogue>
+</line>
+
+<stage>Backstage</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wow! The Rat does kids' puppet shows?</dialogue>
+</line>
+
+<line>
+  <speaker>Puppet radio</speaker>
+  <dialogue>Jack, you're disorganized. You'd forget your head if it wasn't attached.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>[as Jack] Uh-uh! Would not!</dialogue>
+</line>
+
+<stage>Jack's head falls off.</stage>
+
+<line>
+  <speaker>Puppet radio</speaker>
+  <dialogue>Grab your head and hide! Here comes the giant!</dialogue>
+</line>
+
+<stage>As the audience screams, Jack's cracked head rolls over to Arthur and Buster.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Arthur, look!</dialogue>
+</line>
+
+<stage>The headless Jack puppet wanders off stage as the giant enters.</stage>
+
+<line>
+  <speaker>Giant</speaker>
+  <dialogue>Fee-fi-fo-fum!</dialogue>
+</line>
+
+<line>
+  <speaker>Audience</speaker>
+  <dialogue>Ew! Gross!</dialogue>
+</line>
+
+<stage>Backstage</stage>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>[inspecting his damaged puppet head] They always crack when I do that. I must go through 50 boy heads a year.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur and Buster</speaker>
+  <dialogue>Boy heads!</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>I can never have enough boy heads.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>We didn't know you made puppets.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>[reassembling a head for Jack] Can't talk, boys—I have 40 seconds to get Jack ready. Must always stay on schedule because of all I do.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You do a lot! You're a teacher, a coach, you work on the school paper... [laughs] I can't even find time to do my homework and eat!</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>You need to learn to organize your time. I've heard that some people think I give a lot of homework.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur and Buster</speaker>
+  <dialogue>We never heard that.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>But once you've learned good work habits, you'll discover—</dialogue>
+</line>
+
+<line>
+  <speaker>Puppet radio</speaker>
+  <dialogue>Jack! Where are you?</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>[as Jack] Just a second! The cat rolled my head into the litter box. [to Arthur and Buster] You're capable of more than you think. I'll teach you how to do that homework and then have more time for things you enjoy.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Like how you do all that stuff plus puppets?</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Exactly. [checks watch] Ah! Two seconds early. Self-discipline is as important to learn as two plus two. [as Jack] Okay, I got my head on straight! [goes back on stage with Jack's head backwards]</dialogue>
+</line>
+
+<line>
+  <speaker>Puppet radio</speaker>
+  <dialogue>Hey, man, your head's on straight, but your body is backwards!</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>Please don't stand there. I have to concentrate on my work.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh. Sorry. [to Buster] Boy, were we wrong.</dialogue>
+</line>
+
+<line>
+  <speaker>Ratburn</speaker>
+  <dialogue>By the way, boys, I can't wait to see your Geography projects tomorrow.</dialogue>
+</line>
+
+<stage>Arthur and Buster scream as the "Here we go again" music plays, and then it irises out.</stage>
+
+END
+</xml>
