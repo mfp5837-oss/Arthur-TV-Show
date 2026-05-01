@@ -1,16 +1,3 @@
-.photo-item img, 
-.photo-item .cyto {
-    width: 100%;
-    height: auto;
-    border: 4px solid #ccc; /* Optional: adds a nice border */
-    border-radius: 8px;
-    display: block;
-  margin: auto;
-    
-}
-
-
-
 body {/* background: papayaWhip; */background:#feb94e;font-family: Arial, Helvetica, sans-serif;}
 
 div.side-by-side {display: flex;width: 80%;float: right;}
@@ -69,10 +56,11 @@ div.threeD iframe {width: 90%;max-width: 1280px;max-height: 840px;}
 
 .imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 100%; margin: 20px auto; padding: 30%; border-radius: 32px;}
 .imgzoom img:hover {transform: scale(4.0);}
-.imgzoom2{display: flex; flex-flow: row wrap; align-items: center; width: 120%; margin: 30px auto; padding: 35%; border-radius: 50px;}
-.imgzoom2 img:hover {transform: scale(10.0);}
+
+.imgzoom2 img:hover {transform: scale(2.1);}
 .imgzoom3 img:hover {transform: scale(2.5);}
 .imgzoom4 img:hover {transform: scale(2.0);}
+.imgspace {padding:10%; margin:20px;}
 
 .team-box {display: flex;align-items: center;gap: 200px;border: 2px solid white;border-radius: 25px;padding: 20px;}
 
