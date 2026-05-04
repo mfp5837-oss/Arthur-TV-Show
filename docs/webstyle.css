@@ -121,3 +121,44 @@ summary:hover {
 h4 {
     margin-top: 15px;
 }
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+/* Keep your existing colors untouched */
+.item {
+    text-align: center;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Images + iframe sizing */
+.item img,
+.item iframe {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.25s ease;
+}
+
+.item iframe {
+    height: 350px;
+}
+
+/* ✨ POP EFFECT */
+.item:hover {
+    transform: scale(1.05);
+    z-index: 2;
+}
+
+.item:hover img,
+.item:hover iframe {
+    transform: scale(1.03);
+}
+
+/* Optional subtle shadow (won’t affect site colors) */
+.item:hover {
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
